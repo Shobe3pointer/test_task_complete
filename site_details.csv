@@ -1,0 +1,405 @@
+site_id,technology,country,latitude,longitude,asset_phase
+1237,Ground mount solar,UK,51.16777778,0.8075,Operational
+1304,Rooftop solar,France,45.3125,1.563611111,Operational
+1319,Rooftop solar,France,42.8034278,2.033530556,Operational
+1373,Reserve power,UK,51.78796,-3.22639,Operational
+1332,Rooftop solar,France,44.8088889,1.814444444,Operational
+1347,Rooftop solar,France,44.5722222,4.520555556,Operational
+1341,Rooftop solar,France,43.255,2.176388889,Operational
+1561,Rooftop solar,UK,"","",Operational
+1291,Ground mount solar,UK,50.75256111,-4.273113889,Operational
+1506,Biomass,UK,52.47745,0.94974,Operational
+1527,Rooftop solar,UK,"","",Operational
+1493,Ground mount solar,France,44.969,0.737,Operational
+1586,Battery storage,UK,53.159,-2.413,Development
+1554,Offshore wind,UK,53.12,0.46,Operational
+1600,Ground mount solar,Philippines,10.4203,122.9364,Operational
+1378,Reserve power,UK,53.5962,-0.64966,Operational
+1376,Reserve power,UK,53.25401,-2.47634,Operational
+1425,Landfill gas,UK,55.79131,-4.18533,Decommissioned
+1556,Ground mount solar,UK,52.29,0.36,Construction
+1162,Ground mount solar,UK,52.37988889,-0.197666667,Operational
+1167,Ground mount solar,UK,51.93093306,1.127527778,Operational
+1483,Ground mount solar,France,43.498,4.953,Operational
+1484,Ground mount solar,France,43.654,5.928,Operational
+1601,Rooftop solar,Vietnam,10.21,106.32,Operational
+1598,Ground mount solar,Philippines,10.4203,122.9364,Operational
+1229,Ground mount solar,UK,52.04,-0.894166667,Operational
+1298,Rooftop solar,France,44.6658611,3.326583333,Operational
+1547,Rooftop solar,UK,53.54261,-2.51413,Construction
+1468,Onshore wind,Sweden,56.674504,16.044843,Operational
+1239,Ground mount solar,UK,50.95236111,-3.474530556,Operational
+1486,Ground mount solar,France,43.516,6.311,Operational
+1538,Rooftop solar,UK,53.12288,-1.23361,Operational
+1549,Onshore wind,Sweden,57.025639,15.2299,Operational
+1286,Ground mount solar,UK,50.86155556,-1.900333333,Operational
+1404,Landfill gas,UK,53.76907,-2.36371,Decommissioned
+1418,Landfill gas,UK,52.49516,0.56925,Decommissioned
+1467,Onshore wind,Ireland,54.8803,-7.8833,Operational
+1246,Ground mount solar,UK,54.776,-1.373,Operational
+1331,Rooftop solar,France,44.8088889,1.814444444,Operational
+1294,Ground mount solar,UK,50.81694444,-4.116388889,Operational
+1475,Rooftop solar,UK,"","",Operational
+1164,Ground mount solar,UK,53.79875611,-1.2091,Operational
+1180,Ground mount solar,UK,50.28935833,-5.110727778,Operational
+1488,Ground mount solar,France,43.268,5.995,Operational
+1481,Ground mount solar,France,43.713,5.232,Operational
+1603,Rooftop solar,Vietnam,10.21,106.32,Operational
+1606,Rooftop solar,France,"","",Operational
+1225,Ground mount solar,UK,52.06472222,0.009444444,Operational
+1542,Rooftop solar,UK,52.03717,-0.65988,Operational
+1299,Rooftop solar,France,45.3125,1.563611111,Operational
+1386,Reserve power,UK,50.84461,-1.08066,Operational
+1326,Rooftop solar,France,43.8572222,5.017222222,Operational
+1236,Ground mount solar,UK,50.75333333,-4.442222222,Operational
+1390,Reserve power,UK,53.61637,-0.18681,Operational
+1472,Onshore wind,UK,55.752401,-3.6012211,Operational
+1394,Reserve power,UK,53.35414,-2.97831,Operational
+1458,Onshore wind,France,47.4149,4.81195,Operational
+1525,Rooftop solar,UK,53.19175,-1.35876,Operational
+1325,Rooftop solar,France,43.5231389,0.911555556,Operational
+1189,Ground mount solar,UK,51.20854722,-2.581611111,Operational
+1411,Landfill gas,UK,54.59717,-1.69492,Decommissioned
+1329,Rooftop solar,France,43.8777778,0.986388889,Operational
+1172,Ground mount solar,UK,50.78083333,-4.439722222,Operational
+1482,Ground mount solar,France,43.291,5.737,Operational
+1595,Ground mount solar,India,18.962,76.213,Operational
+1599,Ground mount solar,Philippines,10.4203,122.9364,Operational
+1284,Ground mount solar,UK,50.97472222,-4.347777778,Operational
+1292,Ground mount solar,UK,52.35583333,-0.0775,Operational
+1314,Rooftop solar,France,43.8866389,4.838586111,Operational
+1193,Ground mount solar,UK,50.82972222,-0.671638889,Operational
+1465,Onshore wind,UK,51.9121,-4.5893,Operational
+1260,Ground mount solar,UK,51.63583333,-3.161944444,Operational
+1171,Ground mount solar,UK,52.56413889,-1.132416667,Operational
+1582,Ground mount solar,Germany,49.178474,7.104276,Operational
+1464,Onshore wind,Finland,62.3992989,22.3725647,Operational
+1529,Rooftop solar,UK,"","",Operational
+1592,Ground mount solar,India,16.153026,77.763979,Operational
+1573,Onshore wind,France,46.3301,0.0804,Operational
+1301,Rooftop solar,France,45.3125,1.563611111,Operational
+1397,GSHP,UK,55.75989,-4.17461,Operational
+1413,Landfill gas,UK,53.01361,-2.25466,Decommissioned
+1401,Biomass,UK,52.33554,1.12876,Operational
+1354,Rooftop solar,France,44.5722222,4.520555556,Operational
+1297,Rooftop solar,France,44.6658611,3.326583333,Operational
+1412,Landfill gas,UK,53.60208,-1.22992,Decommissioned
+1212,Ground mount solar,UK,51.22638889,0.710277778,Operational
+1259,Ground mount solar,UK,52.77688889,-1.515194444,Operational
+1322,Rooftop solar,France,46.0148806,4.725575,Operational
+1165,Ground mount solar,UK,52.57371944,1.389391667,Operational
+1569,Onshore wind,Germany,51.5981,14.0728,Operational
+1318,Rooftop solar,France,43.8849778,5.340583333,Operational
+1402,Biomass,UK,56.13754,-3.28796,Operational
+1429,Onshore wind,UK,53.76433,-1.93232,Operational
+1375,Reserve power,UK,51.27934,-0.79242,Operational
+1406,Landfill gas,UK,50.22762,-5.16424,Decommissioned
+1422,Landfill gas,UK,54.69915,-1.67049,Decommissioned
+1349,Rooftop solar,France,44.5722222,4.520555556,Operational
+1275,Ground mount solar,UK,51.94213889,0.401599722,Operational
+1334,Rooftop solar,France,43.5669444,0.155,Operational
+1407,Landfill gas,UK,50.37205,-4.10205,Decommissioned
+1576,Onshore wind,Germany,50.2826392,6.396421944,Construction
+1485,Ground mount solar,France,43.399,6.143,Operational
+1605,Rooftop solar,Vietnam,11.19,106.71,Operational
+1417,Landfill gas,UK,50.42871,-4.55807,Decommissioned
+1300,Rooftop solar,France,45.3125,1.563611111,Operational
+1426,Landfill gas,UK,55.43114,-4.30485,Decommissioned
+1272,Ground mount solar,UK,50.89305556,-1.458888889,Operational
+1315,Rooftop solar,France,43.8866389,4.838586111,Operational
+1356,Rooftop solar,France,44.5722222,4.520555556,Operational
+1222,Ground mount solar,UK,50.42471944,-3.796938889,Operational
+1430,Onshore wind,UK,53.53429,-1.68509,Operational
+1453,Onshore wind,UK,57.110568,-4.941836,Operational
+1515,Rooftop solar,UK,"","",Operational
+1508,Onshore wind,Poland,52.13673074,22.84056029,Operational
+1552,Onshore wind,Germany,50.918973,9.934,Operational
+1589,Offshore wind,Germany,55.019,7.774,Operational
+1221,Ground mount solar,UK,51.33844444,1.343305556,Operational
+1324,Rooftop solar,France,43.2230861,2.845863889,Operational
+1541,Rooftop solar,UK,54.7234,-1.52421,Construction
+1240,Ground mount solar,UK,53.16222222,-4.239444444,Operational
+1252,Ground mount solar,UK,52.55944444,0.564722222,Operational
+1355,Rooftop solar,France,44.5722222,4.520555556,Operational
+1479,Rooftop solar,UK,"","",Operational
+1270,Ground mount solar,UK,51.415,-3.3236111,Operational
+1227,Ground mount solar,UK,51.01777778,-3.681944444,Operational
+1251,Ground mount solar,UK,52.58805556,-1.506388889,Operational
+1268,Ground mount solar,UK,52.01286944,1.289,Operational
+1336,Rooftop solar,France,43.9005556,0.584166667,Operational
+1531,Rooftop solar,UK,"","",Operational
+1533,Rooftop solar,UK,"","",Operational
+1584,Ground mount solar,Germany,51.939,13.744,Construction
+1249,Ground mount solar,UK,53.68,-1.079444444,Operational
+1241,Ground mount solar,UK,51.11916667,-2.972777778,Operational
+1544,Rooftop solar,UK,53.4806,-1.0868,Construction
+1462,Onshore wind,France,43.6934,2.86021,Operational
+1199,Ground mount solar,UK,51.17405556,-1.476083333,Operational
+1420,Landfill gas,UK,52.22536,0.92758,Decommissioned
+1281,Ground mount solar,UK,52.94713889,-2.915777778,Operational
+1382,Reserve power,UK,51.80259,-3.23382,Operational
+1415,Landfill gas,UK,53.9034,-3.02066,Decommissioned
+1183,Ground mount solar,UK,52.3527,1.473707778,Operational
+1511,Ground mount solar,Ireland,53.455115,-6.3737169,Operational
+1202,Ground mount solar,UK,50.42122222,-3.762588889,Operational
+1204,Ground mount solar,UK,51.01956111,-2.995988889,Operational
+1311,Rooftop solar,France,45.3125,1.563611111,Operational
+1201,Ground mount solar,UK,50.42015556,-3.778594444,Operational
+1261,Ground mount solar,UK,52.78086111,-1.031583333,Operational
+1266,Ground mount solar,UK,53.78013333,-2.961297222,Operational
+1173,Ground mount solar,UK,51.125,-3.927999722,Operational
+1175,Ground mount solar,UK,53.23420556,-4.399688889,Operational
+1187,Ground mount solar,UK,51.19796111,-2.375827778,Operational
+1489,Ground mount solar,France,43.273,5.995,Operational
+1557,Ground mount solar,Australia,-34.567668,146.000771,Operational
+1571,Offshore wind,UK,53.8999722,1.789998333,Operational
+1580,Ground mount solar,Ireland,53.464597,-6.4237779,Operational
+1269,Ground mount solar,UK,50.74611111,-3.358055556,Operational
+1307,Rooftop solar,France,45.3125,1.563611111,Operational
+1317,Rooftop solar,France,43.9330556,4.851666667,Operational
+1254,Ground mount solar,UK,51.41975,-1.607694444,Operational
+1385,Reserve power,UK,51.27934,-0.79242,Operational
+1316,Rooftop solar,France,43.8866389,4.838586111,Operational
+1361,Rooftop solar,France,44.2777833,2.058497222,Operational
+1532,Rooftop solar,UK,"","",Operational
+1602,Rooftop solar,Vietnam,10.21,106.32,Operational
+1168,Rooftop solar,UK,53.104,-2.472999722,Operational
+1399,Biomass,UK,52.39728,0.13568,Operational
+1338,Rooftop solar,France,43.255,2.176388889,Operational
+1207,Ground mount solar,UK,50.7,-1.13,Operational
+1323,Rooftop solar,France,43.9372222,4.847777778,Operational
+1351,Rooftop solar,France,44.5722222,4.520555556,Operational
+1226,Ground mount solar,UK,54.09527778,-1.0325,Operational
+1224,Ground mount solar,UK,52.06472222,0.0521861,Operational
+1258,Ground mount solar,UK,51.19430278,-1.660836111,Operational
+1310,Rooftop solar,France,45.3125,1.563611111,Operational
+1328,Rooftop solar,France,44.3187472,4.707,Operational
+1400,Biomass,UK,53.62242,-0.70143,Operational
+1340,Rooftop solar,France,43.255,2.176388889,Operational
+1463,Onshore wind,Finland,62.578875,22.11237,Operational
+1477,Rooftop solar,UK,"","",Operational
+1233,Ground mount solar,UK,50.32386111,-4.844075,Operational
+1360,Rooftop solar,France,44.2777833,2.058497222,Operational
+1536,Rooftop solar,UK,52.32401,-1.88985,Construction
+1379,Reserve power,UK,51.27811,-1.06394,Operational
+1200,Ground mount solar,UK,54.5387,-1.0699,Operational
+1503,Rooftop solar,UK,"","",Operational
+1247,Ground mount solar,UK,52.63302778,-2.734722222,Operational
+1293,Ground mount solar,UK,52.33683333,0.161611111,Operational
+1333,Rooftop solar,France,44.0361111,2.526111111,Operational
+1604,Rooftop solar,Vietnam,11.19,106.71,Operational
+1242,Ground mount solar,UK,51.19472222,-1.663888889,Operational
+1287,Ground mount solar,UK,50.94944444,-4.114444444,Operational
+1460,Onshore wind,France,43.3873,2.30289,Operational
+1471,Onshore wind,UK,52.353551,-0.656488,Operational
+1210,Ground mount solar,UK,51.54333333,-2.165,Operational
+1476,Rooftop solar,UK,"","",Operational
+1451,Onshore wind,UK,52.641015,-0.03079,Operational
+1454,Onshore wind,UK,55.680819,-5.510384,Operational
+1186,Ground mount solar,UK,50.44066667,-4.775694444,Operational
+1487,Ground mount solar,France,46.617,3.861,Operational
+1509,Onshore wind,UK,55.5573,-3.8458,Construction
+1578,Ground mount solar,Ireland,53.473085,-6.320355,Operational
+1389,Reserve power,UK,53.59971,-2.29877,Operational
+1321,Rooftop solar,France,43.3852778,4.833888889,Operational
+1374,Reserve power,UK,51.36897,1.39131,Operational
+1273,Ground mount solar,UK,53.28168611,-1.362458333,Operational
+1342,Rooftop solar,France,44.0,4.914166667,Operational
+1195,Ground mount solar,UK,51.85758333,0.503305556,Operational
+1277,Ground mount solar,UK,50.75872222,-3.407444444,Operational
+1330,Rooftop solar,France,44.4303111,2.971063889,Operational
+1308,Rooftop solar,France,45.3125,1.563611111,Operational
+1546,Rooftop solar,UK,51.43424,0.61541,Construction
+1449,Onshore wind,UK,54.943829,-4.771095,Operational
+1176,Ground mount solar,UK,52.673,0.627,Operational
+1594,Ground mount solar,India,15.371,76.306,Operational
+1597,Ground mount solar,India,16.153026,77.763979,Operational
+1423,Landfill gas,UK,51.77175,-0.11983,Decommissioned
+1197,Ground mount solar,UK,50.83222222,-3.785555556,Operational
+1380,Reserve power,UK,51.78796,-3.22639,Operational
+1559,Rooftop solar,UK,50.989958,-0.483215,Operational
+1295,Ground mount solar,UK,51.32638889,1.128888889,Operational
+1288,Ground mount solar,UK,51.395,-3.405,Operational
+1539,Rooftop solar,UK,53.35908,-2.29516,Operational
+1178,Ground mount solar,UK,54.80802778,-3.003033333,Operational
+1230,Ground mount solar,UK,50.84444444,0.236388889,Operational
+1263,Ground mount solar,UK,51.06972222,-2.750833333,Operational
+1211,Ground mount solar,UK,52.64054722,-2.141116667,Operational
+1276,Ground mount solar,UK,53.25261111,-1.086944444,Operational
+1243,Ground mount solar,UK,50.50444444,-4.888888889,Operational
+1232,Ground mount solar,UK,50.78222222,-2.949722222,Operational
+1216,Ground mount solar,UK,50.845,-2.166944444,Operational
+1255,Ground mount solar,UK,50.507,-3.635,Operational
+1257,Ground mount solar,UK,52.58566667,-0.709166667,Operational
+1182,Ground mount solar,UK,50.7371,-1.298499722,Operational
+1491,Ground mount solar,France,43.498,5.79,Operational
+1490,Ground mount solar,France,44.005,5.777,Operational
+1194,Ground mount solar,UK,53.02846111,-0.395725,Operational
+1414,Landfill gas,UK,52.42058,-1.21362,Decommissioned
+1302,Rooftop solar,France,45.3125,1.563611111,Operational
+1455,Onshore wind,UK,53.63134,-0.70358,Operational
+1177,Ground mount solar,UK,50.65072611,-3.383504722,Operational
+1188,Ground mount solar,UK,51.47977778,-3.530583333,Operational
+1499,Onshore wind,France,46.19426,0.346055,Operational
+1579,Ground mount solar,Ireland,53.478935,-6.3837041,Operational
+1377,Reserve power,UK,52.53104,-1.39496,Operational
+1383,Reserve power,UK,51.53245,-3.40251,Operational
+1388,Reserve power,UK,53.20272,-3.01432,Operational
+1409,Landfill gas,UK,55.99271,-4.56964,Decommissioned
+1262,Ground mount solar,UK,51.04583333,-2.311388889,Operational
+1395,Reserve power,UK,53.60346,-0.64933,Operational
+1337,Rooftop solar,France,43.255,2.176388889,Operational
+1192,Ground mount solar,UK,53.109,-2.508,Operational
+1235,Ground mount solar,UK,50.45,-4.23,Operational
+1219,Ground mount solar,UK,50.91194444,-1.033333333,Operational
+1267,Ground mount solar,UK,51.51277778,-3.664055556,Operational
+1306,Rooftop solar,France,45.3125,1.563611111,Operational
+1238,Ground mount solar,UK,53.69538889,-0.066694444,Operational
+1562,Rooftop solar,UK,"","",Operational
+1279,Ground mount solar,UK,50.61148194,-4.263383889,Operational
+1500,Onshore wind,France,46.4395,0.062188,Operational
+1234,Ground mount solar,UK,50.886,-2.762,Operational
+1214,Ground mount solar,UK,53.30616667,-0.996416667,Operational
+1289,Ground mount solar,UK,51.78611111,-1.607222222,Operational
+1560,Rooftop solar,UK,"","",Operational
+1256,Ground mount solar,UK,52.59388889,0.395277778,Operational
+1179,Ground mount solar,UK,50.88330556,-2.603611111,Operational
+1522,Onshore wind,France,48.06551,-1.62436,Operational
+1611,Offshore wind,Netherlands,52.6878,4.2486,Operational
+1478,Rooftop solar,UK,"","",Operational
+1191,Ground mount solar,UK,51.83912222,0.602252778,Operational
+1218,Ground mount solar,UK,52.965,-0.8326167,Operational
+1283,Ground mount solar,UK,51.12277778,-0.960027778,Operational
+1392,Reserve power,UK,52.58252,-2.10678,Operational
+1350,Rooftop solar,France,44.5722222,4.520555556,Operational
+1371,Reserve power,UK,51.69048,-3.41681,Operational
+1427,Landfill gas,UK,57.46266,-1.86784,Decommissioned
+1220,Ground mount solar,UK,51.055,-2.318611111,Operational
+1223,Ground mount solar,UK,52.54277778,0.543333333,Operational
+1358,Rooftop solar,France,44.2777833,2.058497222,Operational
+1370,Reserve power,UK,52.07059,-1.32833,Operational
+1244,Ground mount solar,UK,51.70624444,-3.177344444,Operational
+1278,Ground mount solar,UK,51.88472222,0.393055556,Operational
+1480,Rooftop solar,UK,"","",Operational
+1450,Onshore wind,UK,54.03844,-0.24043,Operational
+1516,Rooftop solar,UK,"","",Operational
+1540,Rooftop solar,UK,53.47844,-2.66361,Operational
+1185,Ground mount solar,UK,52.31577,0.221359722,Operational
+1585,Onshore wind,Australia,-26.637554,149.8711,Construction
+1264,Ground mount solar,UK,50.8876,-4.2057,Operational
+1290,Ground mount solar,UK,53.22252778,-0.94325,Operational
+1502,Rooftop solar,UK,"","",Operational
+1564,Rooftop solar,UK,"","",Operational
+1346,Rooftop solar,France,44.5722222,4.520555556,Operational
+1393,Reserve power,UK,53.59971,-2.29877,Operational
+1452,Onshore wind,UK,56.941858,-2.282624,Operational
+1535,Rooftop solar,UK,52.40667,-1.24778,Construction
+1519,Rooftop solar,UK,"","",Operational
+1357,Rooftop solar,France,44.5722222,4.520555556,Operational
+1372,Reserve power,UK,51.69832,-4.1313,Operational
+1555,Offshore wind,Netherlands,51.707695,3.010102,Operational
+1381,Reserve power,UK,51.41119,-3.22874,Operational
+1282,Ground mount solar,UK,52.53725222,-0.032939722,Operational
+1265,Ground mount solar,UK,51.54747222,-1.872222222,Operational
+1563,Rooftop solar,UK,56.6473,-2.8725,Operational
+1461,Onshore wind,France,43.4061,2.24016,Operational
+1184,Ground mount solar,UK,51.82497222,1.09475,Operational
+1518,Rooftop solar,UK,"","",Operational
+1593,Ground mount solar,India,15.652,75.992,Operational
+1610,Rooftop solar,UK,51.7201,-2.5234,Construction
+1574,Onshore wind,France,46.4028,0.5115,Operational
+1206,Ground mount solar,UK,51.310975,-1.114991389,Operational
+1196,Ground mount solar,UK,53.15526944,-1.013333056,Operational
+1208,Ground mount solar,UK,51.0585,-4.070199722,Operational
+1285,Ground mount solar,UK,52.15083333,-0.254166667,Operational
+1305,Rooftop solar,France,45.3125,1.563611111,Operational
+1398,Biomass,UK,52.44816,0.72337,Operational
+1523,EfW,UK,55.59529,-4.6388,Construction
+1169,Ground mount solar,UK,51.844,0.804861111,Operational
+1530,Rooftop solar,UK,"","",Operational
+1231,Ground mount solar,UK,51.19833333,-2.534444444,Operational
+1248,Ground mount solar,UK,51.21060278,-2.5845,Operational
+1545,Rooftop solar,UK,53.78399,-1.48965,Construction
+1473,Rooftop solar,UK,"","",Operational
+1209,Ground mount solar,UK,52.889,-1.802,Operational
+1213,Ground mount solar,UK,52.74666667,0.775555556,Operational
+1343,Rooftop solar,France,44.0,4.914166667,Operational
+1352,Rooftop solar,France,44.5722222,4.520555556,Operational
+1198,Ground mount solar,UK,53.03672,-0.472646667,Operational
+1537,Rooftop solar,UK,51.54841,-2.6481,Operational
+1492,Ground mount solar,France,43.482,5.804,Operational
+1596,Ground mount solar,India,28.107547,79.051061,Operational
+1510,Onshore wind,Sweden,57.95,12.566667,Construction
+1570,Onshore wind,UK,55.19,-3.17,Operational
+1245,Ground mount solar,UK,54.149,-1.232,Operational
+1543,Rooftop solar,UK,53.48126,-1.09905,Construction
+1205,Ground mount solar,UK,50.17586111,-5.388666667,Operational
+1253,Ground mount solar,UK,50.41913889,-4.690916667,Operational
+1339,Rooftop solar,France,43.255,2.176388889,Operational
+1353,Rooftop solar,France,44.5722222,4.520555556,Operational
+1507,Biomass,UK,53.54248,-0.50927,Operational
+1416,Landfill gas,UK,52.5666,0.0792,Decommissioned
+1474,Rooftop solar,UK,"","",Operational
+1163,Ground mount solar,UK,50.6413,-1.201899722,Operational
+1174,Ground mount solar,UK,52.549,1.247,Operational
+1517,Rooftop solar,UK,"","",Operational
+1494,Ground mount solar,France,44.977,0.749,Operational
+1526,Rooftop solar,UK,"","",Operational
+1568,Onshore wind,Germany,49.812343,8.15747,Operational
+1228,Ground mount solar,UK,50.80861111,-1.359444444,Operational
+1274,Ground mount solar,UK,53.147,0.233,Operational
+1303,Rooftop solar,France,45.3125,1.563611111,Operational
+1466,Onshore wind,UK,50.29335,-5.135151,Operational
+1391,Reserve power,UK,53.37778,-2.59998,Operational
+1359,Rooftop solar,France,44.2777833,2.058497222,Operational
+1190,Ground mount solar,UK,51.3641,-2.0928,Operational
+1203,Ground mount solar,UK,50.34437,-4.929310833,Operational
+1384,Reserve power,UK,53.25369,-3.46933,Operational
+1309,Rooftop solar,France,45.3125,1.563611111,Operational
+1312,Rooftop solar,France,45.3125,1.563611111,Operational
+1345,Rooftop solar,France,44.5722222,4.520555556,Operational
+1456,Onshore wind,France,47.67125,5.703139,Operational
+1565,Battery storage,UK,52.099755,-0.507785,Construction
+1577,Onshore wind,France,47.718451,5.166385,Construction
+1217,Ground mount solar,UK,55.65938889,-4.739138889,Operational
+1296,Rooftop solar,France,43.3122222,2.208888889,Operational
+1348,Rooftop solar,France,44.5722222,4.520555556,Operational
+1459,Onshore wind,France,44.6403,4.88311,Operational
+1396,GSHP,UK,54.89477,-2.94705,Operational
+1320,Rooftop solar,France,43.1769444,2.745,Operational
+1335,Rooftop solar,France,43.7125,2.268333333,Operational
+1387,Reserve power,UK,53.7557,-0.20539,Operational
+1215,Ground mount solar,UK,50.15231944,-5.187961111,Operational
+1327,Rooftop solar,France,43.8572222,5.017222222,Operational
+1457,Onshore wind,France,48.692881,5.245648,Operational
+1512,Ground mount solar,UK,51.417477,-1.014424,Operational
+1166,Ground mount solar,UK,53.16491944,-1.396263889,Operational
+1528,Rooftop solar,UK,"","",Operational
+1250,Ground mount solar,UK,51.1825,-2.926944444,Operational
+1280,Ground mount solar,UK,50.30763611,-5.0178,Operational
+1421,Landfill gas,UK,52.80619,-0.6741,Decommissioned
+1344,Rooftop solar,France,44.5722222,4.520555556,Operational
+1271,Ground mount solar,UK,50.99194444,0.878611111,Operational
+1313,Rooftop solar,France,43.8866389,4.838586111,Operational
+1170,Ground mount solar,UK,51.08196667,-1.152008056,Operational
+5022,Rooftop solar,France,"","",""
+5013,Ground source heat pump,UK,"","",""
+5003,"Onshore Wind, Solar & Battery",UK,"","",""
+5011,Ground mount solar,Japan,"","",""
+5008,"Onshore Wind, Solar & Battery",Italy,41.87189865112305,12.5674,""
+5006,Wind + Solar,Finland,60.18540954589844,24.81227,""
+5021,Distributed Data Centres,UK,"","",""
+5007,Solar + Battery,UK,53.481258392333984,-1.09905,""
+5015,Solar + Battery,UK,"","",""
+5002,IDNO,UK,"","",""
+5001,Floating Wind,Ireland,53.333309173583984,-6.25263,""
+5012,Hydrogen,UK,"","",""
+5020,Rooftop solar,Uk,"","",""
+5005,Pumped Hydro Storage,UK,"","",""
+5014,Ground mount solar,Ireland,"","",""
+5018,Battery storage,Italy,"","",""
+5004,Solar + Battery,UK,52.16361999511719,-0.70181,""
+5010,"Onshore Wind, Solar & Battery",Spain + Portugal,40.41677474975586,-3.7037902,""
+5009,Electric Vehicle Charging,UK,"","",""
+5016,Rooftop solar,Portugal,"","",""
+5017,Offshore wind,Norway,"","",""

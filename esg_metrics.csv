@@ -1,0 +1,1033 @@
+metric_id,metric_name,technology,country,metric_value,metric_unit,source,created_at
+ESG1,Average Household Energy Consumption,,Australia,5.825,MWh,AEMC,00:31.2
+ESG2,Average Household Energy Consumption,,Austria,5.046,MWh,Odyssee,00:31.2
+ESG3,Average Household Energy Consumption,,Belgium,3.847,MWh,Odyssee,00:31.2
+ESG4,Average Household Energy Consumption,,Bulgaria,4.061,MWh,Odyssee,00:31.2
+ESG5,Average Household Energy Consumption,,Croatia,4.331,MWh,Odyssee,00:31.2
+ESG6,Average Household Energy Consumption,,Cyprus,4.79,MWh,Odyssee,00:31.2
+ESG7,Average Household Energy Consumption,,Czech Republic,3.853,MWh,Odyssee,00:31.2
+ESG8,Average Household Energy Consumption,,Denmark,3.742,MWh,Odyssee,00:31.2
+ESG9,Average Household Energy Consumption,,Estonia,3.24,MWh,Odyssee,00:31.2
+ESG10,Average Household Energy Consumption,,Finland,8.125,MWh,Odyssee,00:31.2
+ESG11,Average Household Energy Consumption,,France,5.711,MWh,Odyssee,00:31.2
+ESG12,Average Household Energy Consumption,,Germany,3.493,MWh,Odyssee,00:31.2
+ESG13,Average Household Energy Consumption,,Greece,4.22,MWh,Odyssee,00:31.2
+ESG14,Average Household Energy Consumption,,Hungary,3.318,MWh,Odyssee,00:31.2
+ESG15,Average Household Energy Consumption,,India,3.72762,MWh,IEA,00:31.2
+ESG16,Average Household Energy Consumption,,Ireland,4.779,MWh,Odyssee,00:31.2
+ESG17,Average Household Energy Consumption,,Italy,2.61,MWh,Odyssee,00:31.2
+ESG18,Average Household Energy Consumption,,Latvia,2.215,MWh,Odyssee,00:31.2
+ESG19,Average Household Energy Consumption,,Lithuania,2.223,MWh,Odyssee,00:31.2
+ESG20,Average Household Energy Consumption,,Luxembourg,4.067,MWh,Odyssee,00:31.2
+ESG21,Average Household Energy Consumption,,Malta,4.812,MWh,Odyssee,00:31.2
+ESG22,Average Household Energy Consumption,,Netherlands,2.988,MWh,Odyssee,00:31.2
+ESG23,Average Household Energy Consumption,,Philippines,3.29277,MWh,IEA,00:31.2
+ESG24,Average Household Energy Consumption,,Poland,2.276,MWh,Odyssee,00:31.2
+ESG25,Average Household Energy Consumption,,Portugal,3.472,MWh,Odyssee,00:31.2
+ESG26,Average Household Energy Consumption,,Romania,1.863,MWh,Odyssee,00:31.2
+ESG27,Average Household Energy Consumption,,Slovakia,4.828,MWh,Odyssee,00:31.2
+ESG28,Average Household Energy Consumption,,Spain,3.889,MWh,Odyssee,00:31.2
+ESG29,Average Household Energy Consumption,,Sweden,9.421,MWh,Odyssee,00:31.2
+ESG30,Average Household Energy Consumption,,UK,2.7,MWh,Ofgem ,00:31.2
+ESG31,Average Household Energy Consumption,,United States,10.788,MWh,USA household energy,00:31.2
+ESG32,Average Household Energy Consumption,,Vietnam,9.516,MWh,IEA,00:31.2
+ESG33,Average UK Car Emissions ,,,1.9698110585800734,tCO2/year,UK GOV,00:31.2
+ESG34,CO2 Displaced by Trees,,,0.20388349514563106,tCO2/tree,Forest Carbon,00:31.2
+ESG35,Carbon Avoided,Rooftop solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:31.2
+ESG36,Carbon Avoided,Onshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:31.2
+ESG37,Carbon Avoided,Offshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:31.2
+ESG38,Carbon Avoided,Landfill gas,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:31.2
+ESG39,Carbon Avoided,GSHP,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:31.2
+ESG40,Carbon Avoided,Ground mount solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:31.2
+ESG41,Carbon Avoided,Biomass,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:31.2
+ESG42,Carbon Avoided,Rooftop solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:31.2
+ESG43,Carbon Avoided,Onshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:31.2
+ESG44,Carbon Avoided,Offshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:31.2
+ESG45,Carbon Avoided,Landfill gas,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:31.2
+ESG46,Carbon Avoided,GSHP,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:31.2
+ESG47,Carbon Avoided,Ground mount solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:31.2
+ESG48,Carbon Avoided,Biomass,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:31.2
+ESG49,Carbon Avoided,Rooftop solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:31.2
+ESG50,Carbon Avoided,Onshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:31.2
+ESG51,Carbon Avoided,Offshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:31.2
+ESG52,Carbon Avoided,Landfill gas,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:31.2
+ESG53,Carbon Avoided,GSHP,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:31.2
+ESG54,Carbon Avoided,Ground mount solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:31.2
+ESG55,Carbon Avoided,Biomass,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:31.2
+ESG56,Carbon Avoided,Rooftop solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:31.2
+ESG57,Carbon Avoided,Onshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:31.2
+ESG58,Carbon Avoided,Offshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:31.2
+ESG59,Carbon Avoided,Landfill gas,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:31.2
+ESG60,Carbon Avoided,GSHP,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:31.2
+ESG61,Carbon Avoided,Ground mount solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:31.2
+ESG62,Carbon Avoided,Biomass,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:31.2
+ESG63,Carbon Avoided,Rooftop solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:31.2
+ESG64,Carbon Avoided,Onshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:31.2
+ESG65,Carbon Avoided,Offshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:31.2
+ESG66,Carbon Avoided,Landfill gas,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:31.2
+ESG67,Carbon Avoided,GSHP,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:31.2
+ESG68,Carbon Avoided,Ground mount solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:31.2
+ESG69,Carbon Avoided,Biomass,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:31.2
+ESG70,Carbon Avoided,Rooftop solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:31.2
+ESG71,Carbon Avoided,Onshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:31.2
+ESG72,Carbon Avoided,Offshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:31.2
+ESG73,Carbon Avoided,Landfill gas,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:31.2
+ESG74,Carbon Avoided,GSHP,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:31.2
+ESG75,Carbon Avoided,Ground mount solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:31.2
+ESG76,Carbon Avoided,Biomass,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:31.2
+ESG77,Carbon Avoided,Rooftop solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:31.2
+ESG78,Carbon Avoided,Onshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:31.2
+ESG79,Carbon Avoided,Offshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:31.2
+ESG80,Carbon Avoided,Landfill gas,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:31.2
+ESG81,Carbon Avoided,GSHP,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:31.2
+ESG82,Carbon Avoided,Ground mount solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:31.2
+ESG83,Carbon Avoided,Biomass,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:31.2
+ESG84,Carbon Avoided,Rooftop solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:31.2
+ESG85,Carbon Avoided,Onshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:31.2
+ESG86,Carbon Avoided,Offshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:31.2
+ESG87,Carbon Avoided,Landfill gas,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:31.2
+ESG88,Carbon Avoided,GSHP,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:31.2
+ESG89,Carbon Avoided,Ground mount solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:31.2
+ESG90,Carbon Avoided,Biomass,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:31.2
+ESG91,Carbon Avoided,Rooftop solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:31.2
+ESG92,Carbon Avoided,Onshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:31.2
+ESG93,Carbon Avoided,Offshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:31.2
+ESG94,Carbon Avoided,Landfill gas,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:31.2
+ESG95,Carbon Avoided,GSHP,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:31.2
+ESG96,Carbon Avoided,Ground mount solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:31.2
+ESG97,Carbon Avoided,Biomass,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:31.2
+ESG98,Carbon Avoided,Rooftop solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:31.2
+ESG99,Carbon Avoided,Onshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:31.2
+ESG100,Carbon Avoided,Offshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:31.2
+ESG101,Carbon Avoided,Landfill gas,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:31.2
+ESG102,Carbon Avoided,GSHP,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:31.2
+ESG103,Carbon Avoided,Ground mount solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:31.2
+ESG104,Carbon Avoided,Biomass,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:31.2
+ESG105,Carbon Avoided,Rooftop solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:31.2
+ESG106,Carbon Avoided,Onshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:31.2
+ESG107,Carbon Avoided,Offshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:31.2
+ESG108,Carbon Avoided,Landfill gas,France,67.62273022,gCO2/kWh,IFI Methodology,00:31.2
+ESG109,Carbon Avoided,GSHP,France,67.62273022,gCO2/kWh,IFI Methodology,00:31.2
+ESG110,Carbon Avoided,Ground mount solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:31.2
+ESG111,Carbon Avoided,Biomass,France,67.62273022,gCO2/kWh,IFI Methodology,00:31.2
+ESG112,Carbon Avoided,Rooftop solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:31.2
+ESG113,Carbon Avoided,Onshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:31.2
+ESG114,Carbon Avoided,Offshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:31.2
+ESG115,Carbon Avoided,Landfill gas,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:31.2
+ESG116,Carbon Avoided,GSHP,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:31.2
+ESG117,Carbon Avoided,Ground mount solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:31.2
+ESG118,Carbon Avoided,Biomass,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:31.2
+ESG119,Carbon Avoided,Rooftop solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:31.2
+ESG120,Carbon Avoided,Onshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:31.2
+ESG121,Carbon Avoided,Offshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:31.2
+ESG122,Carbon Avoided,Landfill gas,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:31.2
+ESG123,Carbon Avoided,GSHP,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:31.2
+ESG124,Carbon Avoided,Ground mount solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:31.2
+ESG125,Carbon Avoided,Biomass,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:31.2
+ESG126,Carbon Avoided,Rooftop solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:31.2
+ESG127,Carbon Avoided,Onshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:31.2
+ESG128,Carbon Avoided,Offshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:31.2
+ESG129,Carbon Avoided,Landfill gas,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:31.2
+ESG130,Carbon Avoided,GSHP,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:31.2
+ESG131,Carbon Avoided,Ground mount solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:31.2
+ESG132,Carbon Avoided,Biomass,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:31.2
+ESG133,Carbon Avoided,Rooftop solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:31.2
+ESG134,Carbon Avoided,Onshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:31.2
+ESG135,Carbon Avoided,Offshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:31.2
+ESG136,Carbon Avoided,Landfill gas,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:31.2
+ESG137,Carbon Avoided,GSHP,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:31.2
+ESG138,Carbon Avoided,Ground mount solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:31.2
+ESG139,Carbon Avoided,Biomass,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:31.2
+ESG140,Carbon Avoided,Rooftop solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:31.2
+ESG141,Carbon Avoided,Onshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:31.2
+ESG142,Carbon Avoided,Offshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:31.2
+ESG143,Carbon Avoided,Landfill gas,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:31.2
+ESG144,Carbon Avoided,GSHP,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:31.2
+ESG145,Carbon Avoided,Ground mount solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:31.2
+ESG146,Carbon Avoided,Biomass,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:31.2
+ESG147,Carbon Avoided,Rooftop solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:31.2
+ESG148,Carbon Avoided,Onshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:31.2
+ESG149,Carbon Avoided,Offshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:31.2
+ESG150,Carbon Avoided,Landfill gas,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:31.2
+ESG151,Carbon Avoided,GSHP,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:31.2
+ESG152,Carbon Avoided,Ground mount solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:31.2
+ESG153,Carbon Avoided,Biomass,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:31.2
+ESG154,Carbon Avoided,Rooftop solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:31.2
+ESG155,Carbon Avoided,Onshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:31.2
+ESG156,Carbon Avoided,Offshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:31.2
+ESG157,Carbon Avoided,Landfill gas,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:31.2
+ESG158,Carbon Avoided,GSHP,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:31.2
+ESG159,Carbon Avoided,Ground mount solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:31.2
+ESG160,Carbon Avoided,Biomass,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:31.2
+ESG161,Carbon Avoided,Rooftop solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:31.2
+ESG162,Carbon Avoided,Onshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:31.2
+ESG163,Carbon Avoided,Offshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:31.2
+ESG164,Carbon Avoided,Landfill gas,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:31.2
+ESG165,Carbon Avoided,GSHP,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:31.2
+ESG166,Carbon Avoided,Ground mount solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:31.2
+ESG167,Carbon Avoided,Biomass,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:31.2
+ESG168,Carbon Avoided,Rooftop solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:31.2
+ESG169,Carbon Avoided,Onshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:31.2
+ESG170,Carbon Avoided,Offshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:31.2
+ESG171,Carbon Avoided,Landfill gas,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:31.2
+ESG172,Carbon Avoided,GSHP,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:31.2
+ESG173,Carbon Avoided,Ground mount solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:31.2
+ESG174,Carbon Avoided,Biomass,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:31.2
+ESG175,Carbon Avoided,Rooftop solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:31.2
+ESG176,Carbon Avoided,Onshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:31.2
+ESG177,Carbon Avoided,Offshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:31.2
+ESG178,Carbon Avoided,Landfill gas,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:31.2
+ESG179,Carbon Avoided,GSHP,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:31.2
+ESG180,Carbon Avoided,Ground mount solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:31.2
+ESG181,Carbon Avoided,Biomass,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:31.2
+ESG182,Carbon Avoided,Rooftop solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:31.2
+ESG183,Carbon Avoided,Onshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:31.2
+ESG184,Carbon Avoided,Offshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:31.2
+ESG185,Carbon Avoided,Landfill gas,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:31.2
+ESG186,Carbon Avoided,GSHP,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:31.2
+ESG187,Carbon Avoided,Ground mount solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:31.2
+ESG188,Carbon Avoided,Biomass,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:31.2
+ESG189,Carbon Avoided,Rooftop solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:31.2
+ESG190,Carbon Avoided,Onshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:31.2
+ESG191,Carbon Avoided,Offshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:31.2
+ESG192,Carbon Avoided,Landfill gas,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:31.2
+ESG193,Carbon Avoided,GSHP,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:31.2
+ESG194,Carbon Avoided,Ground mount solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:31.2
+ESG195,Carbon Avoided,Biomass,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:31.2
+ESG196,Carbon Avoided,Rooftop solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:31.2
+ESG197,Carbon Avoided,Onshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:31.2
+ESG198,Carbon Avoided,Offshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:31.2
+ESG199,Carbon Avoided,Landfill gas,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:31.2
+ESG200,Carbon Avoided,GSHP,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:31.2
+ESG201,Carbon Avoided,Ground mount solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:31.2
+ESG202,Carbon Avoided,Biomass,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:31.2
+ESG203,Carbon Avoided,Rooftop solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:31.2
+ESG204,Carbon Avoided,Onshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:31.2
+ESG205,Carbon Avoided,Offshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:31.2
+ESG206,Carbon Avoided,Landfill gas,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:31.2
+ESG207,Carbon Avoided,GSHP,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:31.2
+ESG208,Carbon Avoided,Ground mount solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:31.2
+ESG209,Carbon Avoided,Biomass,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:31.2
+ESG210,Carbon Avoided,Rooftop solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:31.2
+ESG211,Carbon Avoided,Onshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:31.2
+ESG212,Carbon Avoided,Offshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:31.2
+ESG213,Carbon Avoided,Landfill gas,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:31.2
+ESG214,Carbon Avoided,GSHP,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:31.2
+ESG215,Carbon Avoided,Ground mount solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:31.2
+ESG216,Carbon Avoided,Biomass,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:31.2
+ESG217,Carbon Avoided,Rooftop solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:31.2
+ESG218,Carbon Avoided,Onshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:31.2
+ESG219,Carbon Avoided,Offshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:31.2
+ESG220,Carbon Avoided,Landfill gas,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:31.2
+ESG221,Carbon Avoided,GSHP,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:31.2
+ESG222,Carbon Avoided,Ground mount solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:31.2
+ESG223,Carbon Avoided,Biomass,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:31.2
+ESG224,Carbon Avoided,Rooftop solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:31.2
+ESG225,Carbon Avoided,Onshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:31.2
+ESG226,Carbon Avoided,Offshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:31.2
+ESG227,Carbon Avoided,Landfill gas,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:31.2
+ESG228,Carbon Avoided,GSHP,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:31.2
+ESG229,Carbon Avoided,Ground mount solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:31.2
+ESG230,Carbon Avoided,Biomass,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:31.2
+ESG231,Carbon Avoided,Rooftop solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:31.2
+ESG232,Carbon Avoided,Onshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:31.2
+ESG233,Carbon Avoided,Offshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:31.2
+ESG234,Carbon Avoided,Landfill gas,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:31.2
+ESG235,Carbon Avoided,GSHP,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:31.2
+ESG236,Carbon Avoided,Ground mount solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:31.2
+ESG237,Carbon Avoided,Biomass,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:31.2
+ESG238,Carbon Avoided,Rooftop solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:31.2
+ESG239,Carbon Avoided,Onshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:31.2
+ESG240,Carbon Avoided,Offshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:31.2
+ESG241,Carbon Avoided,Landfill gas,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:31.2
+ESG242,Carbon Avoided,GSHP,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:31.2
+ESG243,Carbon Avoided,Ground mount solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:31.2
+ESG244,Carbon Avoided,Biomass,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:31.2
+ESG245,Carbon Avoided,Rooftop solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:31.2
+ESG246,Carbon Avoided,Onshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:31.2
+ESG247,Carbon Avoided,Offshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:31.2
+ESG248,Carbon Avoided,Landfill gas,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:31.2
+ESG249,Carbon Avoided,GSHP,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:31.2
+ESG250,Carbon Avoided,Ground mount solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:31.2
+ESG251,Carbon Avoided,Biomass,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:31.2
+ESG252,Carbon Avoided,Rooftop solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:31.2
+ESG253,Carbon Avoided,Onshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:31.2
+ESG254,Carbon Avoided,Offshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:31.2
+ESG255,Carbon Avoided,Landfill gas,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:31.2
+ESG256,Carbon Avoided,GSHP,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:31.2
+ESG257,Carbon Avoided,Ground mount solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:31.2
+ESG258,Carbon Avoided,Biomass,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:31.2
+ESG1,Average Household Energy Consumption,,Australia,5.825,MWh,AEMC,00:47.4
+ESG2,Average Household Energy Consumption,,Austria,5.046,MWh,Odyssee,00:47.4
+ESG3,Average Household Energy Consumption,,Belgium,3.847,MWh,Odyssee,00:47.4
+ESG4,Average Household Energy Consumption,,Bulgaria,4.061,MWh,Odyssee,00:47.4
+ESG5,Average Household Energy Consumption,,Croatia,4.331,MWh,Odyssee,00:47.4
+ESG6,Average Household Energy Consumption,,Cyprus,4.79,MWh,Odyssee,00:47.4
+ESG7,Average Household Energy Consumption,,Czech Republic,3.853,MWh,Odyssee,00:47.4
+ESG8,Average Household Energy Consumption,,Denmark,3.742,MWh,Odyssee,00:47.4
+ESG9,Average Household Energy Consumption,,Estonia,3.24,MWh,Odyssee,00:47.4
+ESG10,Average Household Energy Consumption,,Finland,8.125,MWh,Odyssee,00:47.4
+ESG11,Average Household Energy Consumption,,France,5.711,MWh,Odyssee,00:47.4
+ESG12,Average Household Energy Consumption,,Germany,3.493,MWh,Odyssee,00:47.4
+ESG13,Average Household Energy Consumption,,Greece,4.22,MWh,Odyssee,00:47.4
+ESG14,Average Household Energy Consumption,,Hungary,3.318,MWh,Odyssee,00:47.4
+ESG15,Average Household Energy Consumption,,India,3.72762,MWh,IEA,00:47.4
+ESG16,Average Household Energy Consumption,,Ireland,4.779,MWh,Odyssee,00:47.4
+ESG17,Average Household Energy Consumption,,Italy,2.61,MWh,Odyssee,00:47.4
+ESG18,Average Household Energy Consumption,,Latvia,2.215,MWh,Odyssee,00:47.4
+ESG19,Average Household Energy Consumption,,Lithuania,2.223,MWh,Odyssee,00:47.4
+ESG20,Average Household Energy Consumption,,Luxembourg,4.067,MWh,Odyssee,00:47.4
+ESG21,Average Household Energy Consumption,,Malta,4.812,MWh,Odyssee,00:47.4
+ESG22,Average Household Energy Consumption,,Netherlands,2.988,MWh,Odyssee,00:47.4
+ESG23,Average Household Energy Consumption,,Philippines,3.29277,MWh,IEA,00:47.4
+ESG24,Average Household Energy Consumption,,Poland,2.276,MWh,Odyssee,00:47.4
+ESG25,Average Household Energy Consumption,,Portugal,3.472,MWh,Odyssee,00:47.4
+ESG26,Average Household Energy Consumption,,Romania,1.863,MWh,Odyssee,00:47.4
+ESG27,Average Household Energy Consumption,,Slovakia,4.828,MWh,Odyssee,00:47.4
+ESG28,Average Household Energy Consumption,,Spain,3.889,MWh,Odyssee,00:47.4
+ESG29,Average Household Energy Consumption,,Sweden,9.421,MWh,Odyssee,00:47.4
+ESG30,Average Household Energy Consumption,,UK,2.7,MWh,Ofgem ,00:47.4
+ESG31,Average Household Energy Consumption,,United States,10.788,MWh,USA household energy,00:47.4
+ESG32,Average Household Energy Consumption,,Vietnam,9.516,MWh,IEA,00:47.4
+ESG33,Average UK Car Emissions ,,,1.9698110585800734,tCO2/year,UK GOV,00:47.4
+ESG34,CO2 Displaced by Trees,,,0.20388349514563106,tCO2/tree,Forest Carbon,00:47.4
+ESG35,Carbon Avoided,Rooftop solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:47.4
+ESG36,Carbon Avoided,Onshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:47.4
+ESG37,Carbon Avoided,Offshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:47.4
+ESG38,Carbon Avoided,Landfill gas,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:47.4
+ESG39,Carbon Avoided,GSHP,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:47.4
+ESG40,Carbon Avoided,Ground mount solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:47.4
+ESG41,Carbon Avoided,Biomass,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:47.4
+ESG42,Carbon Avoided,Rooftop solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:47.4
+ESG43,Carbon Avoided,Onshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:47.4
+ESG44,Carbon Avoided,Offshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:47.4
+ESG45,Carbon Avoided,Landfill gas,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:47.4
+ESG46,Carbon Avoided,GSHP,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:47.4
+ESG47,Carbon Avoided,Ground mount solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:47.4
+ESG48,Carbon Avoided,Biomass,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:47.4
+ESG49,Carbon Avoided,Rooftop solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:47.4
+ESG50,Carbon Avoided,Onshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:47.4
+ESG51,Carbon Avoided,Offshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:47.4
+ESG52,Carbon Avoided,Landfill gas,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:47.4
+ESG53,Carbon Avoided,GSHP,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:47.4
+ESG54,Carbon Avoided,Ground mount solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:47.4
+ESG55,Carbon Avoided,Biomass,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:47.4
+ESG56,Carbon Avoided,Rooftop solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:47.4
+ESG57,Carbon Avoided,Onshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:47.4
+ESG58,Carbon Avoided,Offshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:47.4
+ESG59,Carbon Avoided,Landfill gas,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:47.4
+ESG60,Carbon Avoided,GSHP,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:47.4
+ESG61,Carbon Avoided,Ground mount solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:47.4
+ESG62,Carbon Avoided,Biomass,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:47.4
+ESG63,Carbon Avoided,Rooftop solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:47.4
+ESG64,Carbon Avoided,Onshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:47.4
+ESG65,Carbon Avoided,Offshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:47.4
+ESG66,Carbon Avoided,Landfill gas,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:47.4
+ESG67,Carbon Avoided,GSHP,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:47.4
+ESG68,Carbon Avoided,Ground mount solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:47.4
+ESG69,Carbon Avoided,Biomass,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:47.4
+ESG70,Carbon Avoided,Rooftop solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:47.4
+ESG71,Carbon Avoided,Onshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:47.4
+ESG72,Carbon Avoided,Offshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:47.4
+ESG73,Carbon Avoided,Landfill gas,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:47.4
+ESG74,Carbon Avoided,GSHP,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:47.4
+ESG75,Carbon Avoided,Ground mount solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:47.4
+ESG76,Carbon Avoided,Biomass,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:47.4
+ESG77,Carbon Avoided,Rooftop solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:47.4
+ESG78,Carbon Avoided,Onshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:47.4
+ESG79,Carbon Avoided,Offshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:47.4
+ESG80,Carbon Avoided,Landfill gas,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:47.4
+ESG81,Carbon Avoided,GSHP,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:47.4
+ESG82,Carbon Avoided,Ground mount solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:47.4
+ESG83,Carbon Avoided,Biomass,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:47.4
+ESG84,Carbon Avoided,Rooftop solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:47.4
+ESG85,Carbon Avoided,Onshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:47.4
+ESG86,Carbon Avoided,Offshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:47.4
+ESG87,Carbon Avoided,Landfill gas,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:47.4
+ESG88,Carbon Avoided,GSHP,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:47.4
+ESG89,Carbon Avoided,Ground mount solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:47.4
+ESG90,Carbon Avoided,Biomass,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:47.4
+ESG91,Carbon Avoided,Rooftop solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:47.4
+ESG92,Carbon Avoided,Onshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:47.4
+ESG93,Carbon Avoided,Offshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:47.4
+ESG94,Carbon Avoided,Landfill gas,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:47.4
+ESG95,Carbon Avoided,GSHP,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:47.4
+ESG96,Carbon Avoided,Ground mount solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:47.4
+ESG97,Carbon Avoided,Biomass,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:47.4
+ESG98,Carbon Avoided,Rooftop solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:47.4
+ESG99,Carbon Avoided,Onshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:47.4
+ESG100,Carbon Avoided,Offshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:47.4
+ESG101,Carbon Avoided,Landfill gas,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:47.4
+ESG102,Carbon Avoided,GSHP,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:47.4
+ESG103,Carbon Avoided,Ground mount solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:47.4
+ESG104,Carbon Avoided,Biomass,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:47.4
+ESG105,Carbon Avoided,Rooftop solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:47.4
+ESG106,Carbon Avoided,Onshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:47.4
+ESG107,Carbon Avoided,Offshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:47.4
+ESG108,Carbon Avoided,Landfill gas,France,67.62273022,gCO2/kWh,IFI Methodology,00:47.4
+ESG109,Carbon Avoided,GSHP,France,67.62273022,gCO2/kWh,IFI Methodology,00:47.4
+ESG110,Carbon Avoided,Ground mount solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:47.4
+ESG111,Carbon Avoided,Biomass,France,67.62273022,gCO2/kWh,IFI Methodology,00:47.4
+ESG112,Carbon Avoided,Rooftop solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:47.4
+ESG113,Carbon Avoided,Onshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:47.4
+ESG114,Carbon Avoided,Offshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:47.4
+ESG115,Carbon Avoided,Landfill gas,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:47.4
+ESG116,Carbon Avoided,GSHP,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:47.4
+ESG117,Carbon Avoided,Ground mount solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:47.4
+ESG118,Carbon Avoided,Biomass,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:47.4
+ESG119,Carbon Avoided,Rooftop solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:47.4
+ESG120,Carbon Avoided,Onshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:47.4
+ESG121,Carbon Avoided,Offshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:47.4
+ESG122,Carbon Avoided,Landfill gas,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:47.4
+ESG123,Carbon Avoided,GSHP,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:47.4
+ESG124,Carbon Avoided,Ground mount solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:47.4
+ESG125,Carbon Avoided,Biomass,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:47.4
+ESG126,Carbon Avoided,Rooftop solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:47.4
+ESG127,Carbon Avoided,Onshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:47.4
+ESG128,Carbon Avoided,Offshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:47.4
+ESG129,Carbon Avoided,Landfill gas,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:47.4
+ESG130,Carbon Avoided,GSHP,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:47.4
+ESG131,Carbon Avoided,Ground mount solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:47.4
+ESG132,Carbon Avoided,Biomass,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:47.4
+ESG133,Carbon Avoided,Rooftop solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:47.4
+ESG134,Carbon Avoided,Onshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:47.4
+ESG135,Carbon Avoided,Offshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:47.4
+ESG136,Carbon Avoided,Landfill gas,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:47.4
+ESG137,Carbon Avoided,GSHP,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:47.4
+ESG138,Carbon Avoided,Ground mount solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:47.4
+ESG139,Carbon Avoided,Biomass,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:47.4
+ESG140,Carbon Avoided,Rooftop solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:47.4
+ESG141,Carbon Avoided,Onshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:47.4
+ESG142,Carbon Avoided,Offshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:47.4
+ESG143,Carbon Avoided,Landfill gas,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:47.4
+ESG144,Carbon Avoided,GSHP,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:47.4
+ESG145,Carbon Avoided,Ground mount solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:47.4
+ESG146,Carbon Avoided,Biomass,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:47.4
+ESG147,Carbon Avoided,Rooftop solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:47.4
+ESG148,Carbon Avoided,Onshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:47.4
+ESG149,Carbon Avoided,Offshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:47.4
+ESG150,Carbon Avoided,Landfill gas,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:47.4
+ESG151,Carbon Avoided,GSHP,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:47.4
+ESG152,Carbon Avoided,Ground mount solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:47.4
+ESG153,Carbon Avoided,Biomass,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:47.4
+ESG154,Carbon Avoided,Rooftop solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:47.4
+ESG155,Carbon Avoided,Onshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:47.4
+ESG156,Carbon Avoided,Offshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:47.4
+ESG157,Carbon Avoided,Landfill gas,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:47.4
+ESG158,Carbon Avoided,GSHP,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:47.4
+ESG159,Carbon Avoided,Ground mount solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:47.4
+ESG160,Carbon Avoided,Biomass,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:47.4
+ESG161,Carbon Avoided,Rooftop solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:47.4
+ESG162,Carbon Avoided,Onshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:47.4
+ESG163,Carbon Avoided,Offshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:47.4
+ESG164,Carbon Avoided,Landfill gas,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:47.4
+ESG165,Carbon Avoided,GSHP,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:47.4
+ESG166,Carbon Avoided,Ground mount solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:47.4
+ESG167,Carbon Avoided,Biomass,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:47.4
+ESG168,Carbon Avoided,Rooftop solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:47.4
+ESG169,Carbon Avoided,Onshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:47.4
+ESG170,Carbon Avoided,Offshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:47.4
+ESG171,Carbon Avoided,Landfill gas,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:47.4
+ESG172,Carbon Avoided,GSHP,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:47.4
+ESG173,Carbon Avoided,Ground mount solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:47.4
+ESG174,Carbon Avoided,Biomass,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:47.4
+ESG175,Carbon Avoided,Rooftop solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:47.4
+ESG176,Carbon Avoided,Onshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:47.4
+ESG177,Carbon Avoided,Offshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:47.4
+ESG178,Carbon Avoided,Landfill gas,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:47.4
+ESG179,Carbon Avoided,GSHP,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:47.4
+ESG180,Carbon Avoided,Ground mount solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:47.4
+ESG181,Carbon Avoided,Biomass,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:47.4
+ESG182,Carbon Avoided,Rooftop solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:47.4
+ESG183,Carbon Avoided,Onshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:47.4
+ESG184,Carbon Avoided,Offshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:47.4
+ESG185,Carbon Avoided,Landfill gas,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:47.4
+ESG186,Carbon Avoided,GSHP,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:47.4
+ESG187,Carbon Avoided,Ground mount solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:47.4
+ESG188,Carbon Avoided,Biomass,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:47.4
+ESG189,Carbon Avoided,Rooftop solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:47.4
+ESG190,Carbon Avoided,Onshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:47.4
+ESG191,Carbon Avoided,Offshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:47.4
+ESG192,Carbon Avoided,Landfill gas,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:47.4
+ESG193,Carbon Avoided,GSHP,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:47.4
+ESG194,Carbon Avoided,Ground mount solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:47.4
+ESG195,Carbon Avoided,Biomass,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:47.4
+ESG196,Carbon Avoided,Rooftop solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:47.4
+ESG197,Carbon Avoided,Onshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:47.4
+ESG198,Carbon Avoided,Offshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:47.4
+ESG199,Carbon Avoided,Landfill gas,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:47.4
+ESG200,Carbon Avoided,GSHP,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:47.4
+ESG201,Carbon Avoided,Ground mount solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:47.4
+ESG202,Carbon Avoided,Biomass,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:47.4
+ESG203,Carbon Avoided,Rooftop solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:47.4
+ESG204,Carbon Avoided,Onshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:47.4
+ESG205,Carbon Avoided,Offshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:47.4
+ESG206,Carbon Avoided,Landfill gas,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:47.4
+ESG207,Carbon Avoided,GSHP,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:47.4
+ESG208,Carbon Avoided,Ground mount solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:47.4
+ESG209,Carbon Avoided,Biomass,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:47.4
+ESG210,Carbon Avoided,Rooftop solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:47.4
+ESG211,Carbon Avoided,Onshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:47.4
+ESG212,Carbon Avoided,Offshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:47.4
+ESG213,Carbon Avoided,Landfill gas,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:47.4
+ESG214,Carbon Avoided,GSHP,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:47.4
+ESG215,Carbon Avoided,Ground mount solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:47.4
+ESG216,Carbon Avoided,Biomass,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:47.4
+ESG217,Carbon Avoided,Rooftop solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:47.4
+ESG218,Carbon Avoided,Onshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:47.4
+ESG219,Carbon Avoided,Offshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:47.4
+ESG220,Carbon Avoided,Landfill gas,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:47.4
+ESG221,Carbon Avoided,GSHP,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:47.4
+ESG222,Carbon Avoided,Ground mount solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:47.4
+ESG223,Carbon Avoided,Biomass,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:47.4
+ESG224,Carbon Avoided,Rooftop solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:47.4
+ESG225,Carbon Avoided,Onshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:47.4
+ESG226,Carbon Avoided,Offshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:47.4
+ESG227,Carbon Avoided,Landfill gas,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:47.4
+ESG228,Carbon Avoided,GSHP,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:47.4
+ESG229,Carbon Avoided,Ground mount solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:47.4
+ESG230,Carbon Avoided,Biomass,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:47.4
+ESG231,Carbon Avoided,Rooftop solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:47.4
+ESG232,Carbon Avoided,Onshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:47.4
+ESG233,Carbon Avoided,Offshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:47.4
+ESG234,Carbon Avoided,Landfill gas,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:47.4
+ESG235,Carbon Avoided,GSHP,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:47.4
+ESG236,Carbon Avoided,Ground mount solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:47.4
+ESG237,Carbon Avoided,Biomass,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:47.4
+ESG238,Carbon Avoided,Rooftop solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:47.4
+ESG239,Carbon Avoided,Onshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:47.4
+ESG240,Carbon Avoided,Offshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:47.4
+ESG241,Carbon Avoided,Landfill gas,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:47.4
+ESG242,Carbon Avoided,GSHP,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:47.4
+ESG243,Carbon Avoided,Ground mount solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:47.4
+ESG244,Carbon Avoided,Biomass,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:47.4
+ESG245,Carbon Avoided,Rooftop solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:47.4
+ESG246,Carbon Avoided,Onshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:47.4
+ESG247,Carbon Avoided,Offshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:47.4
+ESG248,Carbon Avoided,Landfill gas,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:47.4
+ESG249,Carbon Avoided,GSHP,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:47.4
+ESG250,Carbon Avoided,Ground mount solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:47.4
+ESG251,Carbon Avoided,Biomass,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:47.4
+ESG252,Carbon Avoided,Rooftop solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:47.4
+ESG253,Carbon Avoided,Onshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:47.4
+ESG254,Carbon Avoided,Offshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:47.4
+ESG255,Carbon Avoided,Landfill gas,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:47.4
+ESG256,Carbon Avoided,GSHP,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:47.4
+ESG257,Carbon Avoided,Ground mount solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:47.4
+ESG258,Carbon Avoided,Biomass,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:47.4
+ESG1,Average Household Energy Consumption,,Australia,5.825,MWh,AEMC,00:46.8
+ESG2,Average Household Energy Consumption,,Austria,5.046,MWh,Odyssee,00:46.8
+ESG3,Average Household Energy Consumption,,Belgium,3.847,MWh,Odyssee,00:46.8
+ESG4,Average Household Energy Consumption,,Bulgaria,4.061,MWh,Odyssee,00:46.8
+ESG5,Average Household Energy Consumption,,Croatia,4.331,MWh,Odyssee,00:46.8
+ESG6,Average Household Energy Consumption,,Cyprus,4.79,MWh,Odyssee,00:46.8
+ESG7,Average Household Energy Consumption,,Czech Republic,3.853,MWh,Odyssee,00:46.8
+ESG8,Average Household Energy Consumption,,Denmark,3.742,MWh,Odyssee,00:46.8
+ESG9,Average Household Energy Consumption,,Estonia,3.24,MWh,Odyssee,00:46.8
+ESG10,Average Household Energy Consumption,,Finland,8.125,MWh,Odyssee,00:46.8
+ESG11,Average Household Energy Consumption,,France,5.711,MWh,Odyssee,00:46.8
+ESG12,Average Household Energy Consumption,,Germany,3.493,MWh,Odyssee,00:46.8
+ESG13,Average Household Energy Consumption,,Greece,4.22,MWh,Odyssee,00:46.8
+ESG14,Average Household Energy Consumption,,Hungary,3.318,MWh,Odyssee,00:46.8
+ESG15,Average Household Energy Consumption,,India,3.72762,MWh,IEA,00:46.8
+ESG16,Average Household Energy Consumption,,Ireland,4.779,MWh,Odyssee,00:46.8
+ESG17,Average Household Energy Consumption,,Italy,2.61,MWh,Odyssee,00:46.8
+ESG18,Average Household Energy Consumption,,Latvia,2.215,MWh,Odyssee,00:46.8
+ESG19,Average Household Energy Consumption,,Lithuania,2.223,MWh,Odyssee,00:46.8
+ESG20,Average Household Energy Consumption,,Luxembourg,4.067,MWh,Odyssee,00:46.8
+ESG21,Average Household Energy Consumption,,Malta,4.812,MWh,Odyssee,00:46.8
+ESG22,Average Household Energy Consumption,,Netherlands,2.988,MWh,Odyssee,00:46.8
+ESG23,Average Household Energy Consumption,,Philippines,3.29277,MWh,IEA,00:46.8
+ESG24,Average Household Energy Consumption,,Poland,2.276,MWh,Odyssee,00:46.8
+ESG25,Average Household Energy Consumption,,Portugal,3.472,MWh,Odyssee,00:46.8
+ESG26,Average Household Energy Consumption,,Romania,1.863,MWh,Odyssee,00:46.8
+ESG27,Average Household Energy Consumption,,Slovakia,4.828,MWh,Odyssee,00:46.8
+ESG28,Average Household Energy Consumption,,Spain,3.889,MWh,Odyssee,00:46.8
+ESG29,Average Household Energy Consumption,,Sweden,9.421,MWh,Odyssee,00:46.8
+ESG30,Average Household Energy Consumption,,UK,2.7,MWh,Ofgem ,00:46.8
+ESG31,Average Household Energy Consumption,,United States,10.788,MWh,USA household energy,00:46.8
+ESG32,Average Household Energy Consumption,,Vietnam,9.516,MWh,IEA,00:46.8
+ESG33,Average UK Car Emissions ,,,1.9698110585800734,tCO2/year,UK GOV,00:46.8
+ESG34,CO2 Displaced by Trees,,,0.20388349514563106,tCO2/tree,Forest Carbon,00:46.8
+ESG35,Carbon Avoided,Rooftop solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:46.8
+ESG36,Carbon Avoided,Onshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:46.8
+ESG37,Carbon Avoided,Offshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:46.8
+ESG38,Carbon Avoided,Landfill gas,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:46.8
+ESG39,Carbon Avoided,GSHP,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:46.8
+ESG40,Carbon Avoided,Ground mount solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:46.8
+ESG41,Carbon Avoided,Biomass,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:46.8
+ESG42,Carbon Avoided,Rooftop solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:46.8
+ESG43,Carbon Avoided,Onshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:46.8
+ESG44,Carbon Avoided,Offshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:46.8
+ESG45,Carbon Avoided,Landfill gas,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:46.8
+ESG46,Carbon Avoided,GSHP,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:46.8
+ESG47,Carbon Avoided,Ground mount solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:46.8
+ESG48,Carbon Avoided,Biomass,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:46.8
+ESG49,Carbon Avoided,Rooftop solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:46.8
+ESG50,Carbon Avoided,Onshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:46.8
+ESG51,Carbon Avoided,Offshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:46.8
+ESG52,Carbon Avoided,Landfill gas,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:46.8
+ESG53,Carbon Avoided,GSHP,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:46.8
+ESG54,Carbon Avoided,Ground mount solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:46.8
+ESG55,Carbon Avoided,Biomass,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:46.8
+ESG56,Carbon Avoided,Rooftop solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:46.8
+ESG57,Carbon Avoided,Onshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:46.8
+ESG58,Carbon Avoided,Offshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:46.8
+ESG59,Carbon Avoided,Landfill gas,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:46.8
+ESG60,Carbon Avoided,GSHP,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:46.8
+ESG61,Carbon Avoided,Ground mount solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:46.8
+ESG62,Carbon Avoided,Biomass,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:46.8
+ESG63,Carbon Avoided,Rooftop solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:46.8
+ESG64,Carbon Avoided,Onshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:46.8
+ESG65,Carbon Avoided,Offshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:46.8
+ESG66,Carbon Avoided,Landfill gas,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:46.8
+ESG67,Carbon Avoided,GSHP,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:46.8
+ESG68,Carbon Avoided,Ground mount solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:46.8
+ESG69,Carbon Avoided,Biomass,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:46.8
+ESG70,Carbon Avoided,Rooftop solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:46.8
+ESG71,Carbon Avoided,Onshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:46.8
+ESG72,Carbon Avoided,Offshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:46.8
+ESG73,Carbon Avoided,Landfill gas,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:46.8
+ESG74,Carbon Avoided,GSHP,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:46.8
+ESG75,Carbon Avoided,Ground mount solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:46.8
+ESG76,Carbon Avoided,Biomass,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:46.8
+ESG77,Carbon Avoided,Rooftop solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:46.8
+ESG78,Carbon Avoided,Onshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:46.8
+ESG79,Carbon Avoided,Offshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:46.8
+ESG80,Carbon Avoided,Landfill gas,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:46.8
+ESG81,Carbon Avoided,GSHP,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:46.8
+ESG82,Carbon Avoided,Ground mount solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:46.8
+ESG83,Carbon Avoided,Biomass,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:46.8
+ESG84,Carbon Avoided,Rooftop solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:46.8
+ESG85,Carbon Avoided,Onshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:46.8
+ESG86,Carbon Avoided,Offshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:46.8
+ESG87,Carbon Avoided,Landfill gas,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:46.8
+ESG88,Carbon Avoided,GSHP,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:46.8
+ESG89,Carbon Avoided,Ground mount solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:46.8
+ESG90,Carbon Avoided,Biomass,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:46.8
+ESG91,Carbon Avoided,Rooftop solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:46.8
+ESG92,Carbon Avoided,Onshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:46.8
+ESG93,Carbon Avoided,Offshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:46.8
+ESG94,Carbon Avoided,Landfill gas,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:46.8
+ESG95,Carbon Avoided,GSHP,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:46.8
+ESG96,Carbon Avoided,Ground mount solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:46.8
+ESG97,Carbon Avoided,Biomass,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:46.8
+ESG98,Carbon Avoided,Rooftop solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:46.8
+ESG99,Carbon Avoided,Onshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:46.8
+ESG100,Carbon Avoided,Offshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:46.8
+ESG101,Carbon Avoided,Landfill gas,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:46.8
+ESG102,Carbon Avoided,GSHP,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:46.8
+ESG103,Carbon Avoided,Ground mount solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:46.8
+ESG104,Carbon Avoided,Biomass,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:46.8
+ESG105,Carbon Avoided,Rooftop solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:46.8
+ESG106,Carbon Avoided,Onshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:46.8
+ESG107,Carbon Avoided,Offshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:46.8
+ESG108,Carbon Avoided,Landfill gas,France,67.62273022,gCO2/kWh,IFI Methodology,00:46.8
+ESG109,Carbon Avoided,GSHP,France,67.62273022,gCO2/kWh,IFI Methodology,00:46.8
+ESG110,Carbon Avoided,Ground mount solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:46.8
+ESG111,Carbon Avoided,Biomass,France,67.62273022,gCO2/kWh,IFI Methodology,00:46.8
+ESG112,Carbon Avoided,Rooftop solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:46.8
+ESG113,Carbon Avoided,Onshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:46.8
+ESG114,Carbon Avoided,Offshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:46.8
+ESG115,Carbon Avoided,Landfill gas,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:46.8
+ESG116,Carbon Avoided,GSHP,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:46.8
+ESG117,Carbon Avoided,Ground mount solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:46.8
+ESG118,Carbon Avoided,Biomass,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:46.8
+ESG119,Carbon Avoided,Rooftop solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:46.8
+ESG120,Carbon Avoided,Onshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:46.8
+ESG121,Carbon Avoided,Offshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:46.8
+ESG122,Carbon Avoided,Landfill gas,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:46.8
+ESG123,Carbon Avoided,GSHP,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:46.8
+ESG124,Carbon Avoided,Ground mount solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:46.8
+ESG125,Carbon Avoided,Biomass,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:46.8
+ESG126,Carbon Avoided,Rooftop solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:46.8
+ESG127,Carbon Avoided,Onshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:46.8
+ESG128,Carbon Avoided,Offshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:46.8
+ESG129,Carbon Avoided,Landfill gas,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:46.8
+ESG130,Carbon Avoided,GSHP,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:46.8
+ESG131,Carbon Avoided,Ground mount solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:46.8
+ESG132,Carbon Avoided,Biomass,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:46.8
+ESG133,Carbon Avoided,Rooftop solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:46.8
+ESG134,Carbon Avoided,Onshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:46.8
+ESG135,Carbon Avoided,Offshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:46.8
+ESG136,Carbon Avoided,Landfill gas,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:46.8
+ESG137,Carbon Avoided,GSHP,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:46.8
+ESG138,Carbon Avoided,Ground mount solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:46.8
+ESG139,Carbon Avoided,Biomass,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:46.8
+ESG140,Carbon Avoided,Rooftop solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:46.8
+ESG141,Carbon Avoided,Onshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:46.8
+ESG142,Carbon Avoided,Offshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:46.8
+ESG143,Carbon Avoided,Landfill gas,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:46.8
+ESG144,Carbon Avoided,GSHP,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:46.8
+ESG145,Carbon Avoided,Ground mount solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:46.8
+ESG146,Carbon Avoided,Biomass,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:46.8
+ESG147,Carbon Avoided,Rooftop solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:46.8
+ESG148,Carbon Avoided,Onshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:46.8
+ESG149,Carbon Avoided,Offshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:46.8
+ESG150,Carbon Avoided,Landfill gas,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:46.8
+ESG151,Carbon Avoided,GSHP,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:46.8
+ESG152,Carbon Avoided,Ground mount solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:46.8
+ESG153,Carbon Avoided,Biomass,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:46.8
+ESG154,Carbon Avoided,Rooftop solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:46.8
+ESG155,Carbon Avoided,Onshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:46.8
+ESG156,Carbon Avoided,Offshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:46.8
+ESG157,Carbon Avoided,Landfill gas,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:46.8
+ESG158,Carbon Avoided,GSHP,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:46.8
+ESG159,Carbon Avoided,Ground mount solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:46.8
+ESG160,Carbon Avoided,Biomass,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:46.8
+ESG161,Carbon Avoided,Rooftop solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:46.8
+ESG162,Carbon Avoided,Onshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:46.8
+ESG163,Carbon Avoided,Offshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:46.8
+ESG164,Carbon Avoided,Landfill gas,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:46.8
+ESG165,Carbon Avoided,GSHP,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:46.8
+ESG166,Carbon Avoided,Ground mount solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:46.8
+ESG167,Carbon Avoided,Biomass,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:46.8
+ESG168,Carbon Avoided,Rooftop solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:46.8
+ESG169,Carbon Avoided,Onshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:46.8
+ESG170,Carbon Avoided,Offshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:46.8
+ESG171,Carbon Avoided,Landfill gas,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:46.8
+ESG172,Carbon Avoided,GSHP,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:46.8
+ESG173,Carbon Avoided,Ground mount solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:46.8
+ESG174,Carbon Avoided,Biomass,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:46.8
+ESG175,Carbon Avoided,Rooftop solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:46.8
+ESG176,Carbon Avoided,Onshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:46.8
+ESG177,Carbon Avoided,Offshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:46.8
+ESG178,Carbon Avoided,Landfill gas,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:46.8
+ESG179,Carbon Avoided,GSHP,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:46.8
+ESG180,Carbon Avoided,Ground mount solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:46.8
+ESG181,Carbon Avoided,Biomass,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:46.8
+ESG182,Carbon Avoided,Rooftop solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:46.8
+ESG183,Carbon Avoided,Onshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:46.8
+ESG184,Carbon Avoided,Offshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:46.8
+ESG185,Carbon Avoided,Landfill gas,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:46.8
+ESG186,Carbon Avoided,GSHP,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:46.8
+ESG187,Carbon Avoided,Ground mount solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:46.8
+ESG188,Carbon Avoided,Biomass,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:46.8
+ESG189,Carbon Avoided,Rooftop solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:46.8
+ESG190,Carbon Avoided,Onshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:46.8
+ESG191,Carbon Avoided,Offshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:46.8
+ESG192,Carbon Avoided,Landfill gas,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:46.8
+ESG193,Carbon Avoided,GSHP,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:46.8
+ESG194,Carbon Avoided,Ground mount solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:46.8
+ESG195,Carbon Avoided,Biomass,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:46.8
+ESG196,Carbon Avoided,Rooftop solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:46.8
+ESG197,Carbon Avoided,Onshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:46.8
+ESG198,Carbon Avoided,Offshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:46.8
+ESG199,Carbon Avoided,Landfill gas,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:46.8
+ESG200,Carbon Avoided,GSHP,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:46.8
+ESG201,Carbon Avoided,Ground mount solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:46.8
+ESG202,Carbon Avoided,Biomass,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:46.8
+ESG203,Carbon Avoided,Rooftop solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:46.8
+ESG204,Carbon Avoided,Onshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:46.8
+ESG205,Carbon Avoided,Offshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:46.8
+ESG206,Carbon Avoided,Landfill gas,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:46.8
+ESG207,Carbon Avoided,GSHP,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:46.8
+ESG208,Carbon Avoided,Ground mount solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:46.8
+ESG209,Carbon Avoided,Biomass,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:46.8
+ESG210,Carbon Avoided,Rooftop solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:46.8
+ESG211,Carbon Avoided,Onshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:46.8
+ESG212,Carbon Avoided,Offshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:46.8
+ESG213,Carbon Avoided,Landfill gas,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:46.8
+ESG214,Carbon Avoided,GSHP,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:46.8
+ESG215,Carbon Avoided,Ground mount solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:46.8
+ESG216,Carbon Avoided,Biomass,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:46.8
+ESG217,Carbon Avoided,Rooftop solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:46.8
+ESG218,Carbon Avoided,Onshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:46.8
+ESG219,Carbon Avoided,Offshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:46.8
+ESG220,Carbon Avoided,Landfill gas,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:46.8
+ESG221,Carbon Avoided,GSHP,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:46.8
+ESG222,Carbon Avoided,Ground mount solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:46.8
+ESG223,Carbon Avoided,Biomass,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:46.8
+ESG224,Carbon Avoided,Rooftop solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:46.8
+ESG225,Carbon Avoided,Onshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:46.8
+ESG226,Carbon Avoided,Offshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:46.8
+ESG227,Carbon Avoided,Landfill gas,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:46.8
+ESG228,Carbon Avoided,GSHP,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:46.8
+ESG229,Carbon Avoided,Ground mount solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:46.8
+ESG230,Carbon Avoided,Biomass,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:46.8
+ESG231,Carbon Avoided,Rooftop solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:46.8
+ESG232,Carbon Avoided,Onshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:46.8
+ESG233,Carbon Avoided,Offshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:46.8
+ESG234,Carbon Avoided,Landfill gas,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:46.8
+ESG235,Carbon Avoided,GSHP,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:46.8
+ESG236,Carbon Avoided,Ground mount solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:46.8
+ESG237,Carbon Avoided,Biomass,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:46.8
+ESG238,Carbon Avoided,Rooftop solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:46.8
+ESG239,Carbon Avoided,Onshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:46.8
+ESG240,Carbon Avoided,Offshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:46.8
+ESG241,Carbon Avoided,Landfill gas,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:46.8
+ESG242,Carbon Avoided,GSHP,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:46.8
+ESG243,Carbon Avoided,Ground mount solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:46.8
+ESG244,Carbon Avoided,Biomass,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:46.8
+ESG245,Carbon Avoided,Rooftop solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:46.8
+ESG246,Carbon Avoided,Onshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:46.8
+ESG247,Carbon Avoided,Offshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:46.8
+ESG248,Carbon Avoided,Landfill gas,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:46.8
+ESG249,Carbon Avoided,GSHP,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:46.8
+ESG250,Carbon Avoided,Ground mount solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:46.8
+ESG251,Carbon Avoided,Biomass,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:46.8
+ESG252,Carbon Avoided,Rooftop solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:46.8
+ESG253,Carbon Avoided,Onshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:46.8
+ESG254,Carbon Avoided,Offshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:46.8
+ESG255,Carbon Avoided,Landfill gas,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:46.8
+ESG256,Carbon Avoided,GSHP,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:46.8
+ESG257,Carbon Avoided,Ground mount solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:46.8
+ESG258,Carbon Avoided,Biomass,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:46.8
+ESG1,Average Household Energy Consumption,,Australia,5.825,MWh,AEMC,00:51.7
+ESG2,Average Household Energy Consumption,,Austria,5.046,MWh,Odyssee,00:51.7
+ESG3,Average Household Energy Consumption,,Belgium,3.847,MWh,Odyssee,00:51.7
+ESG4,Average Household Energy Consumption,,Bulgaria,4.061,MWh,Odyssee,00:51.7
+ESG5,Average Household Energy Consumption,,Croatia,4.331,MWh,Odyssee,00:51.7
+ESG6,Average Household Energy Consumption,,Cyprus,4.79,MWh,Odyssee,00:51.7
+ESG7,Average Household Energy Consumption,,Czech Republic,3.853,MWh,Odyssee,00:51.7
+ESG8,Average Household Energy Consumption,,Denmark,3.742,MWh,Odyssee,00:51.7
+ESG9,Average Household Energy Consumption,,Estonia,3.24,MWh,Odyssee,00:51.7
+ESG10,Average Household Energy Consumption,,Finland,8.125,MWh,Odyssee,00:51.7
+ESG11,Average Household Energy Consumption,,France,5.711,MWh,Odyssee,00:51.7
+ESG12,Average Household Energy Consumption,,Germany,3.493,MWh,Odyssee,00:51.7
+ESG13,Average Household Energy Consumption,,Greece,4.22,MWh,Odyssee,00:51.7
+ESG14,Average Household Energy Consumption,,Hungary,3.318,MWh,Odyssee,00:51.7
+ESG15,Average Household Energy Consumption,,India,3.72762,MWh,IEA,00:51.7
+ESG16,Average Household Energy Consumption,,Ireland,4.779,MWh,Odyssee,00:51.7
+ESG17,Average Household Energy Consumption,,Italy,2.61,MWh,Odyssee,00:51.7
+ESG18,Average Household Energy Consumption,,Latvia,2.215,MWh,Odyssee,00:51.7
+ESG19,Average Household Energy Consumption,,Lithuania,2.223,MWh,Odyssee,00:51.7
+ESG20,Average Household Energy Consumption,,Luxembourg,4.067,MWh,Odyssee,00:51.7
+ESG21,Average Household Energy Consumption,,Malta,4.812,MWh,Odyssee,00:51.7
+ESG22,Average Household Energy Consumption,,Netherlands,2.988,MWh,Odyssee,00:51.7
+ESG23,Average Household Energy Consumption,,Philippines,3.29277,MWh,IEA,00:51.7
+ESG24,Average Household Energy Consumption,,Poland,2.276,MWh,Odyssee,00:51.7
+ESG25,Average Household Energy Consumption,,Portugal,3.472,MWh,Odyssee,00:51.7
+ESG26,Average Household Energy Consumption,,Romania,1.863,MWh,Odyssee,00:51.7
+ESG27,Average Household Energy Consumption,,Slovakia,4.828,MWh,Odyssee,00:51.7
+ESG28,Average Household Energy Consumption,,Spain,3.889,MWh,Odyssee,00:51.7
+ESG29,Average Household Energy Consumption,,Sweden,9.421,MWh,Odyssee,00:51.7
+ESG30,Average Household Energy Consumption,,UK,2.7,MWh,Ofgem ,00:51.7
+ESG31,Average Household Energy Consumption,,United States,10.788,MWh,USA household energy,00:51.7
+ESG32,Average Household Energy Consumption,,Vietnam,9.516,MWh,IEA,00:51.7
+ESG33,Average UK Car Emissions ,,,1.9698110585800734,tCO2/year,UK GOV,00:51.7
+ESG34,CO2 Displaced by Trees,,,0.20388349514563106,tCO2/tree,Forest Carbon,00:51.7
+ESG35,Carbon Avoided,Rooftop solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:51.7
+ESG36,Carbon Avoided,Onshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:51.7
+ESG37,Carbon Avoided,Offshore wind,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:51.7
+ESG38,Carbon Avoided,Landfill gas,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:51.7
+ESG39,Carbon Avoided,GSHP,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:51.7
+ESG40,Carbon Avoided,Ground mount solar,Australia,662.5805119234876,gCO2/kWh,IFI Methodology,00:51.7
+ESG41,Carbon Avoided,Biomass,Australia,420.5336364747478,gCO2/kWh,IFI Methodology,00:51.7
+ESG42,Carbon Avoided,Rooftop solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:51.7
+ESG43,Carbon Avoided,Onshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:51.7
+ESG44,Carbon Avoided,Offshore wind,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:51.7
+ESG45,Carbon Avoided,Landfill gas,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:51.7
+ESG46,Carbon Avoided,GSHP,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:51.7
+ESG47,Carbon Avoided,Ground mount solar,Austria,193.60934855053713,gCO2/kWh,IFI Methodology,00:51.7
+ESG48,Carbon Avoided,Biomass,Austria,113.06459924536532,gCO2/kWh,IFI Methodology,00:51.7
+ESG49,Carbon Avoided,Rooftop solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:51.7
+ESG50,Carbon Avoided,Onshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:51.7
+ESG51,Carbon Avoided,Offshore wind,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:51.7
+ESG52,Carbon Avoided,Landfill gas,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:51.7
+ESG53,Carbon Avoided,GSHP,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:51.7
+ESG54,Carbon Avoided,Ground mount solar,Belgium,203.87180124163424,gCO2/kWh,IFI Methodology,00:51.7
+ESG55,Carbon Avoided,Biomass,Belgium,124.39442830229973,gCO2/kWh,IFI Methodology,00:51.7
+ESG56,Carbon Avoided,Rooftop solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:51.7
+ESG57,Carbon Avoided,Onshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:51.7
+ESG58,Carbon Avoided,Offshore wind,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:51.7
+ESG59,Carbon Avoided,Landfill gas,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:51.7
+ESG60,Carbon Avoided,GSHP,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:51.7
+ESG61,Carbon Avoided,Ground mount solar,Bulgaria,755.4049625449898,gCO2/kWh,IFI Methodology,00:51.7
+ESG62,Carbon Avoided,Biomass,Bulgaria,495.2807372,gCO2/kWh,IFI Methodology,00:51.7
+ESG63,Carbon Avoided,Rooftop solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:51.7
+ESG64,Carbon Avoided,Onshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:51.7
+ESG65,Carbon Avoided,Offshore wind,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:51.7
+ESG66,Carbon Avoided,Landfill gas,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:51.7
+ESG67,Carbon Avoided,GSHP,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:51.7
+ESG68,Carbon Avoided,Ground mount solar,Croatia,246.89822139586536,gCO2/kWh,IFI Methodology,00:51.7
+ESG69,Carbon Avoided,Biomass,Croatia,167.86317078875766,gCO2/kWh,IFI Methodology,00:51.7
+ESG70,Carbon Avoided,Rooftop solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:51.7
+ESG71,Carbon Avoided,Onshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:51.7
+ESG72,Carbon Avoided,Offshore wind,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:51.7
+ESG73,Carbon Avoided,Landfill gas,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:51.7
+ESG74,Carbon Avoided,GSHP,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:51.7
+ESG75,Carbon Avoided,Ground mount solar,Cyprus,633.3732704211358,gCO2/kWh,IFI Methodology,00:51.7
+ESG76,Carbon Avoided,Biomass,Cyprus,438.0304755089935,gCO2/kWh,IFI Methodology,00:51.7
+ESG77,Carbon Avoided,Rooftop solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:51.7
+ESG78,Carbon Avoided,Onshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:51.7
+ESG79,Carbon Avoided,Offshore wind,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:51.7
+ESG80,Carbon Avoided,Landfill gas,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:51.7
+ESG81,Carbon Avoided,GSHP,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:51.7
+ESG82,Carbon Avoided,Ground mount solar,Czech Republic,736.4618384775027,gCO2/kWh,IFI Methodology,00:51.7
+ESG83,Carbon Avoided,Biomass,Czech Republic,461.3053207146579,gCO2/kWh,IFI Methodology,00:51.7
+ESG84,Carbon Avoided,Rooftop solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:51.7
+ESG85,Carbon Avoided,Onshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:51.7
+ESG86,Carbon Avoided,Offshore wind,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:51.7
+ESG87,Carbon Avoided,Landfill gas,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:51.7
+ESG88,Carbon Avoided,GSHP,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:51.7
+ESG89,Carbon Avoided,Ground mount solar,Denmark,284.23806155210224,gCO2/kWh,IFI Methodology,00:51.7
+ESG90,Carbon Avoided,Biomass,Denmark,155.24215224135511,gCO2/kWh,IFI Methodology,00:51.7
+ESG91,Carbon Avoided,Rooftop solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:51.7
+ESG92,Carbon Avoided,Onshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:51.7
+ESG93,Carbon Avoided,Offshore wind,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:51.7
+ESG94,Carbon Avoided,Landfill gas,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:51.7
+ESG95,Carbon Avoided,GSHP,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:51.7
+ESG96,Carbon Avoided,Ground mount solar,Estonia,895.0181070919158,gCO2/kWh,IFI Methodology,00:51.7
+ESG97,Carbon Avoided,Biomass,Estonia,625.1508307589613,gCO2/kWh,IFI Methodology,00:51.7
+ESG98,Carbon Avoided,Rooftop solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:51.7
+ESG99,Carbon Avoided,Onshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:51.7
+ESG100,Carbon Avoided,Offshore wind,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:51.7
+ESG101,Carbon Avoided,Landfill gas,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:51.7
+ESG102,Carbon Avoided,GSHP,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:51.7
+ESG103,Carbon Avoided,Ground mount solar,Finland,209.43587327772903,gCO2/kWh,IFI Methodology,00:51.7
+ESG104,Carbon Avoided,Biomass,Finland,114.07744325305934,gCO2/kWh,IFI Methodology,00:51.7
+ESG105,Carbon Avoided,Rooftop solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:51.7
+ESG106,Carbon Avoided,Onshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:51.7
+ESG107,Carbon Avoided,Offshore wind,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:51.7
+ESG108,Carbon Avoided,Landfill gas,France,67.62273022,gCO2/kWh,IFI Methodology,00:51.7
+ESG109,Carbon Avoided,GSHP,France,67.62273022,gCO2/kWh,IFI Methodology,00:51.7
+ESG110,Carbon Avoided,Ground mount solar,France,124.19566919827533,gCO2/kWh,IFI Methodology,00:51.7
+ESG111,Carbon Avoided,Biomass,France,67.62273022,gCO2/kWh,IFI Methodology,00:51.7
+ESG112,Carbon Avoided,Rooftop solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:51.7
+ESG113,Carbon Avoided,Onshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:51.7
+ESG114,Carbon Avoided,Offshore wind,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:51.7
+ESG115,Carbon Avoided,Landfill gas,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:51.7
+ESG116,Carbon Avoided,GSHP,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:51.7
+ESG117,Carbon Avoided,Ground mount solar,Germany,523.3878942068177,gCO2/kWh,IFI Methodology,00:51.7
+ESG118,Carbon Avoided,Biomass,Germany,312.8844837588933,gCO2/kWh,IFI Methodology,00:51.7
+ESG119,Carbon Avoided,Rooftop solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:51.7
+ESG120,Carbon Avoided,Onshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:51.7
+ESG121,Carbon Avoided,Offshore wind,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:51.7
+ESG122,Carbon Avoided,Landfill gas,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:51.7
+ESG123,Carbon Avoided,GSHP,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:51.7
+ESG124,Carbon Avoided,Ground mount solar,Greece,446.6442339631975,gCO2/kWh,IFI Methodology,00:51.7
+ESG125,Carbon Avoided,Biomass,Greece,345.8436563843835,gCO2/kWh,IFI Methodology,00:51.7
+ESG126,Carbon Avoided,Rooftop solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:51.7
+ESG127,Carbon Avoided,Onshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:51.7
+ESG128,Carbon Avoided,Offshore wind,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:51.7
+ESG129,Carbon Avoided,Landfill gas,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:51.7
+ESG130,Carbon Avoided,GSHP,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:51.7
+ESG131,Carbon Avoided,Ground mount solar,Hungary,256.5747154797159,gCO2/kWh,IFI Methodology,00:51.7
+ESG132,Carbon Avoided,Biomass,Hungary,191.06812185105576,gCO2/kWh,IFI Methodology,00:51.7
+ESG133,Carbon Avoided,Rooftop solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:51.7
+ESG134,Carbon Avoided,Onshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:51.7
+ESG135,Carbon Avoided,Offshore wind,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:51.7
+ESG136,Carbon Avoided,Landfill gas,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:51.7
+ESG137,Carbon Avoided,GSHP,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:51.7
+ESG138,Carbon Avoided,Ground mount solar,India,822.2131274427209,gCO2/kWh,IFI Methodology,00:51.7
+ESG139,Carbon Avoided,Biomass,India,607.6988217335227,gCO2/kWh,IFI Methodology,00:51.7
+ESG140,Carbon Avoided,Rooftop solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:51.7
+ESG141,Carbon Avoided,Onshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:51.7
+ESG142,Carbon Avoided,Offshore wind,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:51.7
+ESG143,Carbon Avoided,Landfill gas,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:51.7
+ESG144,Carbon Avoided,GSHP,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:51.7
+ESG145,Carbon Avoided,Ground mount solar,Ireland,308.7043988175323,gCO2/kWh,IFI Methodology,00:51.7
+ESG146,Carbon Avoided,Biomass,Ireland,189.48199631026586,gCO2/kWh,IFI Methodology,00:51.7
+ESG147,Carbon Avoided,Rooftop solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:51.7
+ESG148,Carbon Avoided,Onshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:51.7
+ESG149,Carbon Avoided,Offshore wind,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:51.7
+ESG150,Carbon Avoided,Landfill gas,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:51.7
+ESG151,Carbon Avoided,GSHP,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:51.7
+ESG152,Carbon Avoided,Ground mount solar,Italy,342.9306472644241,gCO2/kWh,IFI Methodology,00:51.7
+ESG153,Carbon Avoided,Biomass,Italy,223.71243671342881,gCO2/kWh,IFI Methodology,00:51.7
+ESG154,Carbon Avoided,Rooftop solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:51.7
+ESG155,Carbon Avoided,Onshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:51.7
+ESG156,Carbon Avoided,Offshore wind,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:51.7
+ESG157,Carbon Avoided,Landfill gas,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:51.7
+ESG158,Carbon Avoided,GSHP,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:51.7
+ESG159,Carbon Avoided,Ground mount solar,Latvia,193.8606462799563,gCO2/kWh,IFI Methodology,00:51.7
+ESG160,Carbon Avoided,Biomass,Latvia,117.20603105855093,gCO2/kWh,IFI Methodology,00:51.7
+ESG161,Carbon Avoided,Rooftop solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:51.7
+ESG162,Carbon Avoided,Onshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:51.7
+ESG163,Carbon Avoided,Offshore wind,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:51.7
+ESG164,Carbon Avoided,Landfill gas,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:51.7
+ESG165,Carbon Avoided,GSHP,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:51.7
+ESG166,Carbon Avoided,Ground mount solar,Lithuania,169.7774225225553,gCO2/kWh,IFI Methodology,00:51.7
+ESG167,Carbon Avoided,Biomass,Lithuania,101.8441227431646,gCO2/kWh,IFI Methodology,00:51.7
+ESG168,Carbon Avoided,Rooftop solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:51.7
+ESG169,Carbon Avoided,Onshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:51.7
+ESG170,Carbon Avoided,Offshore wind,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:51.7
+ESG171,Carbon Avoided,Landfill gas,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:51.7
+ESG172,Carbon Avoided,GSHP,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:51.7
+ESG173,Carbon Avoided,Ground mount solar,Luxembourg,173.27033451684076,gCO2/kWh,IFI Methodology,00:51.7
+ESG174,Carbon Avoided,Biomass,Luxembourg,95.04059232460651,gCO2/kWh,IFI Methodology,00:51.7
+ESG175,Carbon Avoided,Rooftop solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:51.7
+ESG176,Carbon Avoided,Onshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:51.7
+ESG177,Carbon Avoided,Offshore wind,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:51.7
+ESG178,Carbon Avoided,Landfill gas,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:51.7
+ESG179,Carbon Avoided,GSHP,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:51.7
+ESG180,Carbon Avoided,Ground mount solar,Malta,435.23750952826356,gCO2/kWh,IFI Methodology,00:51.7
+ESG181,Carbon Avoided,Biomass,Malta,294.51240553406734,gCO2/kWh,IFI Methodology,00:51.7
+ESG182,Carbon Avoided,Rooftop solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:51.7
+ESG183,Carbon Avoided,Onshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:51.7
+ESG184,Carbon Avoided,Offshore wind,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:51.7
+ESG185,Carbon Avoided,Landfill gas,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:51.7
+ESG186,Carbon Avoided,GSHP,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:51.7
+ESG187,Carbon Avoided,Ground mount solar,Netherlands,279.8919174279476,gCO2/kWh,IFI Methodology,00:51.7
+ESG188,Carbon Avoided,Biomass,Netherlands,202.9021450113807,gCO2/kWh,IFI Methodology,00:51.7
+ESG189,Carbon Avoided,Rooftop solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:51.7
+ESG190,Carbon Avoided,Onshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:51.7
+ESG191,Carbon Avoided,Offshore wind,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:51.7
+ESG192,Carbon Avoided,Landfill gas,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:51.7
+ESG193,Carbon Avoided,GSHP,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:51.7
+ESG194,Carbon Avoided,Ground mount solar,Philippines,616.6345143722622,gCO2/kWh,IFI Methodology,00:51.7
+ESG195,Carbon Avoided,Biomass,Philippines,524.9866814203265,gCO2/kWh,IFI Methodology,00:51.7
+ESG196,Carbon Avoided,Rooftop solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:51.7
+ESG197,Carbon Avoided,Onshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:51.7
+ESG198,Carbon Avoided,Offshore wind,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:51.7
+ESG199,Carbon Avoided,Landfill gas,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:51.7
+ESG200,Carbon Avoided,GSHP,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:51.7
+ESG201,Carbon Avoided,Ground mount solar,Poland,717.2185309168395,gCO2/kWh,IFI Methodology,00:51.7
+ESG202,Carbon Avoided,Biomass,Poland,532.0692783839155,gCO2/kWh,IFI Methodology,00:51.7
+ESG203,Carbon Avoided,Rooftop solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:51.7
+ESG204,Carbon Avoided,Onshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:51.7
+ESG205,Carbon Avoided,Offshore wind,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:51.7
+ESG206,Carbon Avoided,Landfill gas,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:51.7
+ESG207,Carbon Avoided,GSHP,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:51.7
+ESG208,Carbon Avoided,Ground mount solar,Portugal,328.68678853560834,gCO2/kWh,IFI Methodology,00:51.7
+ESG209,Carbon Avoided,Biomass,Portugal,227.7425886338198,gCO2/kWh,IFI Methodology,00:51.7
+ESG210,Carbon Avoided,Rooftop solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:51.7
+ESG211,Carbon Avoided,Onshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:51.7
+ESG212,Carbon Avoided,Offshore wind,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:51.7
+ESG213,Carbon Avoided,Landfill gas,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:51.7
+ESG214,Carbon Avoided,GSHP,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:51.7
+ESG215,Carbon Avoided,Ground mount solar,Romania,414.4590298,gCO2/kWh,IFI Methodology,00:51.7
+ESG216,Carbon Avoided,Biomass,Romania,289.47954702504603,gCO2/kWh,IFI Methodology,00:51.7
+ESG217,Carbon Avoided,Rooftop solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:51.7
+ESG218,Carbon Avoided,Onshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:51.7
+ESG219,Carbon Avoided,Offshore wind,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:51.7
+ESG220,Carbon Avoided,Landfill gas,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:51.7
+ESG221,Carbon Avoided,GSHP,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:51.7
+ESG222,Carbon Avoided,Ground mount solar,Slovakia,268.81763285439814,gCO2/kWh,IFI Methodology,00:51.7
+ESG223,Carbon Avoided,Biomass,Slovakia,163.7212571665841,gCO2/kWh,IFI Methodology,00:51.7
+ESG224,Carbon Avoided,Rooftop solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:51.7
+ESG225,Carbon Avoided,Onshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:51.7
+ESG226,Carbon Avoided,Offshore wind,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:51.7
+ESG227,Carbon Avoided,Landfill gas,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:51.7
+ESG228,Carbon Avoided,GSHP,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:51.7
+ESG229,Carbon Avoided,Ground mount solar,Spain,329.3432788528321,gCO2/kWh,IFI Methodology,00:51.7
+ESG230,Carbon Avoided,Biomass,Spain,208.69804493845825,gCO2/kWh,IFI Methodology,00:51.7
+ESG231,Carbon Avoided,Rooftop solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:51.7
+ESG232,Carbon Avoided,Onshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:51.7
+ESG233,Carbon Avoided,Offshore wind,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:51.7
+ESG234,Carbon Avoided,Landfill gas,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:51.7
+ESG235,Carbon Avoided,GSHP,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:51.7
+ESG236,Carbon Avoided,Ground mount solar,Sweden,51.96002100294554,gCO2/kWh,IFI Methodology,00:51.7
+ESG237,Carbon Avoided,Biomass,Sweden,25.275304048983678,gCO2/kWh,IFI Methodology,00:51.7
+ESG238,Carbon Avoided,Rooftop solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:51.7
+ESG239,Carbon Avoided,Onshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:51.7
+ESG240,Carbon Avoided,Offshore wind,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:51.7
+ESG241,Carbon Avoided,Landfill gas,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:51.7
+ESG242,Carbon Avoided,GSHP,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:51.7
+ESG243,Carbon Avoided,Ground mount solar,UK,319.69550215549987,gCO2/kWh,IFI Methodology,00:51.7
+ESG244,Carbon Avoided,Biomass,UK,218.56929902663236,gCO2/kWh,IFI Methodology,00:51.7
+ESG245,Carbon Avoided,Rooftop solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:51.7
+ESG246,Carbon Avoided,Onshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:51.7
+ESG247,Carbon Avoided,Offshore wind,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:51.7
+ESG248,Carbon Avoided,Landfill gas,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:51.7
+ESG249,Carbon Avoided,GSHP,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:51.7
+ESG250,Carbon Avoided,Ground mount solar,United States,352.48421040632564,gCO2/kWh,IFI Methodology,00:51.7
+ESG251,Carbon Avoided,Biomass,United States,245.91061682998978,gCO2/kWh,IFI Methodology,00:51.7
+ESG252,Carbon Avoided,Rooftop solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:51.7
+ESG253,Carbon Avoided,Onshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:51.7
+ESG254,Carbon Avoided,Offshore wind,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:51.7
+ESG255,Carbon Avoided,Landfill gas,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:51.7
+ESG256,Carbon Avoided,GSHP,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:51.7
+ESG257,Carbon Avoided,Ground mount solar,Vietnam,493.0786626541619,gCO2/kWh,IFI Methodology,00:51.7
+ESG258,Carbon Avoided,Biomass,Vietnam,380.8079984650012,gCO2/kWh,IFI Methodology,00:51.7
